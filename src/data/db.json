@@ -1,0 +1,705 @@
+{
+  "tags": [
+    {
+      "slug": "svelte",
+      "name": "Svelte",
+      "iconFormat": "png",
+      "createdAt": "2023-08-28T14:25:20.061Z"
+    },
+    {
+      "slug": "framework",
+      "name": "フレームワーク",
+      "iconFormat": "",
+      "createdAt": "2023-08-28T14:25:20.061Z"
+    },
+    {
+      "slug": "official",
+      "name": "公式",
+      "iconFormat": "",
+      "createdAt": "2023-08-28T14:25:20.061Z"
+    },
+    {
+      "slug": "javascript",
+      "name": "Javascript",
+      "iconFormat": "png",
+      "createdAt": "2023-08-28T14:25:20.061Z"
+    },
+    {
+      "slug": "sveltekit",
+      "name": "SvelteKit",
+      "iconFormat": "png",
+      "createdAt": "2023-08-28T14:26:07.300Z"
+    },
+    {
+      "slug": "vercel",
+      "name": "Vercel",
+      "iconFormat": "svg",
+      "createdAt": "2023-08-28T14:27:37.408Z"
+    },
+    {
+      "slug": "hosting",
+      "name": "ホスティング",
+      "iconFormat": "",
+      "createdAt": "2023-08-28T14:27:37.408Z"
+    },
+    {
+      "slug": "tailwindcss",
+      "name": "tailwindcss",
+      "iconFormat": "svg",
+      "createdAt": "2023-08-28T14:28:32.942Z"
+    },
+    {
+      "slug": "css",
+      "name": "CSS",
+      "iconFormat": "png",
+      "createdAt": "2023-08-28T14:28:32.942Z"
+    },
+    {
+      "slug": "nodejs",
+      "name": "Node.js",
+      "iconFormat": "png",
+      "createdAt": "2023-08-28T23:13:17.669Z"
+    },
+    {
+      "slug": "runtime",
+      "name": "ランタイム",
+      "iconFormat": "",
+      "createdAt": "2023-08-28T23:13:17.669Z"
+    },
+    {
+      "slug": "pnpm",
+      "name": "pnpm",
+      "iconFormat": "svg",
+      "createdAt": "2023-08-28T23:15:42.182Z"
+    },
+    {
+      "slug": "package-manager",
+      "name": "パッケージマネージャー",
+      "iconFormat": "",
+      "createdAt": "2023-08-28T23:15:42.182Z"
+    },
+    {
+      "slug": "vitest",
+      "name": "Vitest",
+      "iconFormat": "png",
+      "createdAt": "2023-08-28T23:17:20.142Z"
+    },
+    {
+      "slug": "testing",
+      "name": "テスト",
+      "iconFormat": "",
+      "createdAt": "2023-08-28T23:17:20.142Z"
+    },
+    {
+      "slug": "vite",
+      "name": "Vite",
+      "iconFormat": "png",
+      "createdAt": "2023-08-28T23:19:02.025Z"
+    },
+    {
+      "slug": "build",
+      "name": "ビルドツール",
+      "iconFormat": "",
+      "createdAt": "2023-08-28T23:19:02.025Z"
+    },
+    {
+      "slug": "vue",
+      "name": "Vue.js",
+      "iconFormat": "png",
+      "createdAt": "2023-08-28T23:19:02.025Z"
+    },
+    {
+      "slug": "playwright",
+      "name": "Playwright",
+      "iconFormat": "svg",
+      "createdAt": "2023-08-29T03:26:50.789Z"
+    },
+    {
+      "slug": "e2e",
+      "name": "E2E",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T03:26:50.789Z"
+    },
+    {
+      "slug": "unocss",
+      "name": "UnoCSS",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T10:08:04.786Z"
+    },
+    {
+      "slug": "ruby",
+      "name": "Ruby",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T12:17:27.533Z"
+    },
+    {
+      "slug": "language",
+      "name": "プログラミング言語",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T12:17:27.533Z"
+    },
+    {
+      "slug": "rails",
+      "name": "Ruby on Rails",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T12:25:08.273Z"
+    },
+    {
+      "slug": "guide",
+      "name": "ガイド",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T12:26:36.916Z"
+    },
+    {
+      "slug": "tdd",
+      "name": "テスト駆動開発",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T12:31:42.211Z"
+    },
+    {
+      "slug": "book",
+      "name": "書籍",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T12:31:42.211Z"
+    },
+    {
+      "slug": "design-pattern",
+      "name": "設計手法",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T12:31:42.211Z"
+    },
+    {
+      "slug": "prisma",
+      "name": "Prisma",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T12:53:20.867Z"
+    },
+    {
+      "slug": "orm",
+      "name": "ORM",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T12:53:53.214Z"
+    },
+    {
+      "slug": "database",
+      "name": "データベース",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T12:53:53.214Z"
+    },
+    {
+      "slug": "sql",
+      "name": "SQL",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T12:53:53.214Z"
+    },
+    {
+      "slug": "nextjs",
+      "name": "Next.js",
+      "iconFormat": "svg",
+      "createdAt": "2023-08-29T13:31:55.435Z"
+    },
+    {
+      "slug": "typescript",
+      "name": "Typescript",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T13:31:55.435Z"
+    },
+    {
+      "slug": "css-in-js",
+      "name": "CSS-in-JS",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:43:31.812Z"
+    },
+    {
+      "slug": "react",
+      "name": "React",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T13:43:31.812Z"
+    },
+    {
+      "slug": "storybook",
+      "name": "Storybook",
+      "iconFormat": "png",
+      "createdAt": "2023-08-29T13:43:31.812Z"
+    },
+    {
+      "slug": "component",
+      "name": "コンポーネント",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:44:37.832Z"
+    },
+    {
+      "slug": "zenn",
+      "name": "Zenn",
+      "iconFormat": "svg",
+      "createdAt": "2023-08-29T13:46:31.972Z"
+    },
+    {
+      "slug": "blog",
+      "name": "ブログ",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:46:31.972Z"
+    },
+    {
+      "slug": "browser",
+      "name": "ブラウザ",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:52:13.205Z"
+    },
+    {
+      "slug": "web",
+      "name": "ウェブ基礎",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:52:13.205Z"
+    },
+    {
+      "slug": "theory",
+      "name": "理論",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:52:13.205Z"
+    },
+    {
+      "slug": "softskill",
+      "name": "ソフトスキル",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:58:08.955Z"
+    },
+    {
+      "slug": "slide",
+      "name": "スライド",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:58:08.955Z"
+    },
+    {
+      "slug": "personal-project",
+      "name": "個人開発",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T13:59:46.224Z"
+    },
+    {
+      "slug": "medium",
+      "name": "Medium",
+      "iconFormat": "webp",
+      "createdAt": "2023-08-29T13:59:46.224Z"
+    }
+  ],
+  "docs": [
+    {
+      "id": "203f102f-ec52-479b-9a9e-8ea7f3cd01e2",
+      "url": "https://tailwindcss.com/",
+      "tags": [
+        "tailwindcss",
+        "css",
+        "official"
+      ],
+      "title": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+      "description": "Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.",
+      "icon": "https://tailwindcss.com/favicons/favicon-32x32.png?v=3",
+      "host": "tailwindcss.com",
+      "image": "https://tailwindcss.com/_next/static/media/social-card-large.a6e71726.jpg",
+      "createdAt": "2023-08-28T14:42:09.489Z"
+    },
+    {
+      "id": "fed16a22-7a29-4f10-9715-50db07a70ab5",
+      "url": "https://vercel.com/",
+      "tags": [
+        "vercel",
+        "hosting",
+        "official"
+      ],
+      "title": "Vercel: Develop. Preview. Ship. For the best frontend teams",
+      "description": "Vercel's frontend cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized Web.",
+      "icon": "",
+      "host": "vercel.com",
+      "image": "https://assets.vercel.com/image/upload/front/vercel/dps.png",
+      "createdAt": "2023-08-28T14:42:24.505Z"
+    },
+    {
+      "id": "c97cf2cf-20f8-483a-8dda-0419b28b52e0",
+      "url": "https://svelte.jp/",
+      "tags": [
+        "svelte",
+        "framework",
+        "official",
+        "javascript",
+        "typescript"
+      ],
+      "title": "Svelte • サイバネティクスで強化されたwebアプリ",
+      "description": "",
+      "icon": "https://svelte.jp/favicon.png",
+      "host": "svelte.jp",
+      "image": "",
+      "createdAt": "2023-08-28T14:42:30.096Z"
+    },
+    {
+      "id": "80328241-6ee1-470e-a773-8564bf94b253",
+      "url": "https://kit.svelte.jp/",
+      "tags": [
+        "sveltekit",
+        "svelte",
+        "framework",
+        "official",
+        "javascript",
+        "typescript"
+      ],
+      "title": "SvelteKit • 効率的で無駄のない、研ぎ澄まされた Web 開発",
+      "description": "SvelteKit はオフィシャルな Svelte アプリケーションフレームワーク",
+      "icon": "https://kit.svelte.jp/favicon.png",
+      "host": "kit.svelte.jp",
+      "image": "https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg",
+      "createdAt": "2023-08-28T14:42:37.196Z"
+    },
+    {
+      "id": "4b09ff1c-bed3-4be7-839d-8af596645bc0",
+      "url": "https://nodejs.org/ja",
+      "tags": [
+        "nodejs",
+        "javascript",
+        "typescript",
+        "official",
+        "runtime"
+      ],
+      "title": "Node.js",
+      "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+      "icon": "https://nodejs.org/static/images/favicons/favicon.png",
+      "host": "nodejs.org",
+      "image": "https://nodejs.org/static/images/logo-hexagon-card.png",
+      "createdAt": "2023-08-28T23:13:17.669Z"
+    },
+    {
+      "id": "c36c3b97-b8be-4e6c-9069-2fb7f5a74169",
+      "url": "https://pnpm.io/ja/",
+      "tags": [
+        "pnpm",
+        "package-manager",
+        "official",
+        "javascript",
+        "typescript"
+      ],
+      "title": "Fast, disk space efficient package manager | pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "icon": "https://pnpm.io/ja/img/favicon.png",
+      "host": "pnpm.io",
+      "image": "https://pnpm.io/ja/img/ogimage.png",
+      "createdAt": "2023-08-28T23:15:42.182Z"
+    },
+    {
+      "id": "b3416025-fcd9-4ced-aac9-e3f13a6825d5",
+      "url": "https://vitest.dev/",
+      "tags": [
+        "vitest",
+        "javascript",
+        "typescript",
+        "testing",
+        "official"
+      ],
+      "title": "Vitest | A blazing fast unit test framework powered by Vite",
+      "description": "A blazing fast unit test framework powered by Vite",
+      "icon": "https://vitest.dev/favicon.ico",
+      "host": "vitest.dev",
+      "image": "https://vitest.dev/og.png",
+      "createdAt": "2023-08-28T23:17:20.142Z"
+    },
+    {
+      "id": "b0d5be9e-c82e-49cb-b939-ac7365c7e5a4",
+      "url": "https://ja.vitejs.dev/",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vite",
+        "build",
+        "vue"
+      ],
+      "title": "Vite | 次世代フロントエンドツール",
+      "description": "次世代フロントエンドツール",
+      "icon": "https://ja.vitejs.dev/logo.svg",
+      "host": "ja.vitejs.dev",
+      "image": "https://vitejs.dev/og-image.png",
+      "createdAt": "2023-08-28T23:19:02.025Z"
+    },
+    {
+      "id": "d4e14d26-c66f-423e-b332-e8d67891cb14",
+      "url": "https://ja.vuejs.org/",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vue",
+        "framework"
+      ],
+      "title": "Vue.js - The Progressive JavaScript Framework | Vue.jsPlay icon",
+      "description": "Vue.js - The Progressive JavaScript Framework",
+      "icon": "https://ja.vuejs.org/logo.svg",
+      "host": "ja.vuejs.org",
+      "image": "",
+      "createdAt": "2023-08-28T23:19:58.136Z"
+    },
+    {
+      "id": "245272e3-5a94-46d7-bfa8-5ec1db67311d",
+      "url": "https://playwright.dev/",
+      "tags": [
+        "playwright",
+        "javascript",
+        "typescript",
+        "nodejs",
+        "testing",
+        "e2e"
+      ],
+      "title": "Fast and reliable end-to-end testing for modern web apps | Playwright",
+      "description": "Cross-browser end-to-end testing for modern web apps",
+      "icon": "https://playwright.dev/img/playwright-logo.svg",
+      "host": "playwright.dev",
+      "image": "https://repository-images.githubusercontent.com/221981891/8c5c6942-c91f-4df1-825f-4cf474056bd7",
+      "createdAt": "2023-08-29T03:26:50.789Z"
+    },
+    {
+      "id": "0e0d5dcb-ccd8-4796-bf7d-e0154c33d774",
+      "url": "https://unocss.dev/",
+      "tags": [
+        "css",
+        "unocss",
+        "tailwindcss",
+        "official"
+      ],
+      "title": "UnoCSS: The instant on-demand Atomic CSS engine",
+      "description": "The instant on-demand Atomic CSS engine",
+      "icon": "https://unocss.dev/favicon.svg",
+      "host": "unocss.dev",
+      "image": "https://unocss.dev/og.png#1",
+      "createdAt": "2023-08-29T11:53:23.002Z"
+    },
+    {
+      "id": "a0cc1fcb-5905-4ea3-9f2d-9fdfe88d21d2",
+      "url": "https://www.ruby-lang.org/ja/",
+      "tags": [
+        "ruby",
+        "official",
+        "language",
+        "runtime"
+      ],
+      "title": "オブジェクト指向スクリプト言語 Ruby",
+      "description": "",
+      "icon": "",
+      "host": "www.ruby-lang.org",
+      "image": "",
+      "createdAt": "2023-08-29T12:17:27.532Z"
+    },
+    {
+      "id": "c4b5e0b2-6b43-493c-ad62-e74a3007683a",
+      "url": "https://developer.mozilla.org/ja/docs/Web/JavaScript",
+      "tags": [
+        "javascript",
+        "language",
+        "official"
+      ],
+      "title": "JavaScript | MDN",
+      "description": "JavaScript (JS) は軽量で、インタープリター型、あるいは実行時コンパイルされる、第一級関数を備えたプログラミング言語です。ウェブページでよく使用されるスクリプト言語として知られ、多くのブラウザー以外の環境、例えば Node.js や Apache CouchDB や Adobe Acrobat などでも使用されています。 JavaScript はプロトタイプベースで、マルチパラダイムで、シングルスレッドで、動的な言語であり、オブジェクト指向、命令型、宣言型（関数プログラミングなど）といったスタイルに対応しています。",
+      "icon": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+      "host": "developer.mozilla.org",
+      "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+      "createdAt": "2023-08-29T12:20:10.647Z"
+    },
+    {
+      "id": "eb3c461b-a41d-49b6-a5fd-b71d8b899fd4",
+      "url": "https://rubyonrails.org/",
+      "tags": [
+        "ruby",
+        "rails",
+        "framework",
+        "official"
+      ],
+      "title": "Ruby on Rails — A web-app framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.",
+      "description": "A web-app framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.",
+      "icon": "https://rubyonrails.org/assets/images/favicon.ico",
+      "host": "rubyonrails.org",
+      "image": "https://rubyonrails.org/assets/images/opengraph.png",
+      "createdAt": "2023-08-29T12:25:08.272Z"
+    },
+    {
+      "id": "f89fb350-0b91-4749-b73f-900121ec392e",
+      "url": "https://railsguides.jp/",
+      "tags": [
+        "ruby",
+        "rails",
+        "framework",
+        "guide"
+      ],
+      "title": "\n  Ruby on Rails ガイド：体系的に Rails を学ぼう\n\n",
+      "description": "RailsガイドはRuby on Railsに特化した1,600ページ超えの大型リファレンスです。プロダクト開発を生産的にする電子書籍や全文検索、チーム向けプランも提供しています。",
+      "icon": "https://railsguides.jp/railsguides/images/favicons/favicon-16x16.png",
+      "host": "railsguides.jp",
+      "image": "https://railsguides.jp/images/cover_for_facebook.png",
+      "createdAt": "2023-08-29T12:26:36.916Z"
+    },
+    {
+      "id": "adcf30d5-0474-40ef-be21-25d6a849519f",
+      "url": "https://www.amazon.co.jp/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-Kent-Beck/dp/4274217884",
+      "tags": [
+        "testing",
+        "tdd",
+        "book",
+        "design-pattern"
+      ],
+      "title": "テスト駆動開発 | Kent Beck, 和田 卓人 |本 | 通販 | Amazon",
+      "description": "AmazonでKent Beck, 和田 卓人のテスト駆動開発。アマゾンならポイント還元本が多数。Kent Beck, 和田 卓人作品ほか、お急ぎ便対象商品は当日お届けも可能。またテスト駆動開発もアマゾン配送商品なら通常配送無料。",
+      "icon": "",
+      "host": "www.amazon.co.jp",
+      "image": "",
+      "createdAt": "2023-08-29T12:31:42.211Z"
+    },
+    {
+      "id": "5ee18798-1379-4653-882d-1b9b56753230",
+      "url": "https://remix.run/",
+      "tags": [
+        "javascript",
+        "typescript",
+        "framework",
+        "nodejs",
+        "prisma",
+        "official"
+      ],
+      "title": "Remix - Build Better Websites",
+      "description": "Remix is a full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience. People are gonna love using your stuff.",
+      "icon": "https://remix.run/favicon-32.png",
+      "host": "remix.run",
+      "image": "https://remix.run/img/og.1.jpg",
+      "createdAt": "2023-08-29T12:53:20.867Z"
+    },
+    {
+      "id": "4330da1a-d6b8-4d34-a5f3-33477ea55c72",
+      "url": "https://www.prisma.io/",
+      "tags": [
+        "javascript",
+        "typescript",
+        "nodejs",
+        "prisma",
+        "official",
+        "orm",
+        "database",
+        "sql"
+      ],
+      "title": "Prisma | Next-generation ORM for Node.js & TypeScript",
+      "description": "Prisma is a next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB. It provides type-safety, automated migrations, and an intuitive data model.",
+      "icon": "https://www.prisma.io/images/favicon-32x32.png",
+      "host": "www.prisma.io",
+      "image": "https://website-prisma.vercel.app/og-images/og-image-prisma.png",
+      "createdAt": "2023-08-29T12:53:53.214Z"
+    },
+    {
+      "id": "a35730d7-adbf-4ad3-ae5f-b207504f5835",
+      "url": "https://nextjs.org/",
+      "tags": [
+        "nextjs",
+        "nodejs",
+        "framework",
+        "javascript",
+        "typescript",
+        "vercel",
+        "official"
+      ],
+      "title": "Next.js by Vercel - The React Framework",
+      "description": "Next.js by Vercel is the full-stack React framework for the web.",
+      "icon": "https://nextjs.org/favicon.ico",
+      "host": "nextjs.org",
+      "image": "https://assets.vercel.com/image/upload/front/nextjs/twitter-card.png",
+      "createdAt": "2023-08-29T13:31:55.435Z"
+    },
+    {
+      "id": "a81b2b42-52fd-4fa1-aee0-49fc1cf1c3b5",
+      "url": "https://www.kuma-ui.com/",
+      "tags": [
+        "css",
+        "css-in-js",
+        "nodejs",
+        "typescript",
+        "react",
+        "storybook",
+        "official"
+      ],
+      "title": "Kuma UI",
+      "description": "The Modern Headless & Zero Runtime UI Component Library 🐻‍❄️✨",
+      "icon": "",
+      "host": "www.kuma-ui.com",
+      "image": "https://repository-images.githubusercontent.com/621481721/33116785-e75f-434d-8335-e495413792b3",
+      "createdAt": "2023-08-29T13:43:31.812Z"
+    },
+    {
+      "id": "abea069e-1e94-4e8a-b9ed-0a9ae43a7bd4",
+      "url": "https://storybook.js.org/",
+      "tags": [
+        "react",
+        "component",
+        "storybook",
+        "official"
+      ],
+      "title": "Storybook: Frontend workshop for UI development",
+      "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It’s open source and free.",
+      "icon": "https://storybook.js.org/favicon-32x32.png?v=eac3ed5255c5d69cad47bb7ed6ce3dbf",
+      "host": "storybook.js.org",
+      "image": "https://storybook.js.org/images/social/og-home.jpg",
+      "createdAt": "2023-08-29T13:44:37.832Z"
+    },
+    {
+      "id": "9e3791dd-d106-49d7-b58c-6391565dffc5",
+      "url": "https://zenn.dev/poteboy/articles/e9f63b87b3cd69",
+      "tags": [
+        "css-in-js",
+        "css",
+        "zenn",
+        "blog"
+      ],
+      "title": "CSS-in-JSのパラダイムシフト",
+      "description": "",
+      "icon": "https://zenn.dev/images/logo-transparent.png",
+      "host": "zenn.dev",
+      "image": "https://res.cloudinary.com/zenn/image/upload/s--pLgrAL4J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSS-in-JS%25E3%2581%25AE%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%2595%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteboy%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBiNDBmNjc5Y2UuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
+      "createdAt": "2023-08-29T13:46:31.972Z"
+    },
+    {
+      "id": "971553da-9050-4b50-84af-e4b4b207d49e",
+      "url": "https://zenn.dev/ak/articles/c28fa3a9ba7edb",
+      "tags": [
+        "zenn",
+        "blog",
+        "browser",
+        "web",
+        "theory"
+      ],
+      "title": "ブラウザレンダリングの仕組み",
+      "description": "",
+      "icon": "https://zenn.dev/images/logo-transparent.png",
+      "host": "zenn.dev",
+      "image": "https://res.cloudinary.com/zenn/image/upload/s--d_SJrse_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:akimuu%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q3YTNhNmZhNjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
+      "createdAt": "2023-08-29T13:52:13.204Z"
+    },
+    {
+      "id": "c971a3c5-c5e9-4e47-a233-c8375946ef09",
+      "url": "https://speakerdeck.com/recruitengineers/engineer-2023",
+      "tags": [
+        "softskill",
+        "slide"
+      ],
+      "title": "エンジニアの心構え - Speaker Deck",
+      "description": "2023年度リクルート エンジニアコース新人研修の講義資料です",
+      "icon": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png",
+      "host": "speakerdeck.com",
+      "image": "https://files.speakerdeck.com/presentations/2a2711555eb647d791be57363e037c5f/slide_0.jpg?26656132",
+      "createdAt": "2023-08-29T13:58:08.955Z"
+    },
+    {
+      "id": "223a6001-35e7-4129-8bed-7774ede67fa5",
+      "url": "https://blog.craftz.dog/throw-away-speed-a-strategy-for-pursueing-personal-project-cd7606c3d9c3",
+      "tags": [
+        "softskill",
+        "personal-project",
+        "blog",
+        "medium"
+      ],
+      "title": "スピードを捨てる： 成長期の個人開発アプリを頓挫させないための戦略 | by TAKUYA | 週休７日で働きたい",
+      "description": "今後このサービスを継続して成長させていくためには、立ち上げ期とは少し異なる戦略が必要です。それは、課金してくださっている顧客を守る事です。なぜなら、ノートアプリの本質は知見の管理だからです。長く使うほどその価値が発揮されます。",
+      "icon": "https://miro.medium.com/v2/resize:fill:256:256/1*xd2p9N34I7_5xmDgQCZLDQ.png",
+      "host": "blog.craftz.dog",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*CLs1Avtdc1QXAwzQUa7TDQ.jpeg",
+      "createdAt": "2023-08-29T13:59:46.223Z"
+    }
+  ]
+}
