@@ -353,6 +353,24 @@
       "name": "GitHub",
       "icon": true,
       "createdAt": "2023-08-29T22:44:08.314Z"
+    },
+    {
+      "slug": "history",
+      "name": "ウェブの歴史",
+      "icon": false,
+      "createdAt": "2023-08-29T23:49:53.082Z"
+    },
+    {
+      "slug": "qiita",
+      "name": "Qiita",
+      "icon": true,
+      "createdAt": "2023-08-29T23:54:07.384Z"
+    },
+    {
+      "slug": "standard",
+      "name": "標準規格",
+      "icon": false,
+      "createdAt": "2023-08-29T23:56:25.698Z"
     }
   ],
   "docs": [
@@ -927,6 +945,69 @@
       "host": "shields.io",
       "image": "",
       "createdAt": "2023-08-29T22:44:08.313Z"
+    },
+    {
+      "id": "7afd5645-770c-4932-a88b-49da93fb04db",
+      "url": "https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html",
+      "tags": [
+        "web",
+        "history",
+        "html"
+      ],
+      "title": "The World Wide Web project",
+      "description": "",
+      "icon": "",
+      "host": "www.w3.org",
+      "image": "",
+      "createdAt": "2023-08-29T23:49:53.082Z"
+    },
+    {
+      "id": "6a3d3fd9-0a6c-4be1-b500-0fb262e132aa",
+      "url": "https://jsprimer.net/",
+      "tags": [
+        "javascript",
+        "language",
+        "book"
+      ],
+      "title": "JavaScript Primer - 迷わないための入門書 #jsprimer",
+      "description": "JavaScriptの基本的な書き方からアプリケーションの作成などのユースケースを学ぶための入門書です",
+      "icon": "https://jsprimer.net/gitbook/images/favicon.ico",
+      "host": "jsprimer.net",
+      "image": "",
+      "createdAt": "2023-08-29T23:51:58.458Z"
+    },
+    {
+      "id": "8d785054-da52-49bb-bb76-f32fe3f95c2f",
+      "url": "https://qiita.com/a_rcsin/items/0a3c8c98c8d703c49a22",
+      "tags": [
+        "javascript",
+        "history",
+        "web",
+        "blog",
+        "qiita"
+      ],
+      "title": "Javascriptの歴史 - Qiita",
+      "description": "Javascriptの歴史Javascriptといえば，2016年現在，Webのフロントエンドには欠かせない技術となっているが，そういえば，昔はJavascriptが使われているWebページはご…",
+      "icon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico",
+      "host": "qiita.com",
+      "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9SmF2YXNjcmlwdCVFMyU4MSVBRSVFNiVBRCVCNCVFNSU4RiVCMiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MmExN2E4ZDhjYzhlNzUyODExZTcxZTRmNTM4MmUwNTY&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwYV9yY3NpbiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MGFiOGU4NDMxOGU1ZWRhOWZjNTc0NTAzNzQ3ZmQ0NzU&blend-x=142&blend-y=491&blend-mode=normal&s=e71b3ebce866c5bd6f0058ae28e99b2b",
+      "createdAt": "2023-08-29T23:54:07.384Z"
+    },
+    {
+      "id": "657d4009-5933-4fd1-8ce0-08393a65de10",
+      "url": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
+      "tags": [
+        "javascript",
+        "history",
+        "web",
+        "standard"
+      ],
+      "title": "ECMA-262 - Ecma International",
+      "description": "ECMAScript® 2023 language specification, 14th edition - ECMAScript is a programming language based on several technologies like JavaScript.",
+      "icon": "https://www.ecma-international.org/wp-content/uploads/ecma-favicon@2x-300x300.png",
+      "host": "www.ecma-international.org",
+      "image": "",
+      "createdAt": "2023-08-29T23:56:25.698Z"
     }
   ]
 }
