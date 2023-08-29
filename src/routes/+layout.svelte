@@ -66,5 +66,6 @@
 </main>
 
 <footer class="text-gray-500 p-4 text-center">
+	<p><a href="/terms">利用規約</a></p>
 	<p>&copy; stoc.dev 2023</p>
 </footer>
