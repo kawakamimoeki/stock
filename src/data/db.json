@@ -299,6 +299,18 @@
       "name": "Java",
       "iconFormat": "webp",
       "createdAt": "2023-08-29T14:14:40.152Z"
+    },
+    {
+      "slug": "beginner",
+      "name": "初学者",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T14:17:54.984Z"
+    },
+    {
+      "slug": "service",
+      "name": "サービス",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T14:17:54.984Z"
     }
   ],
   "docs": [
@@ -767,6 +779,20 @@
       "host": "fukabori.fm",
       "image": "https://fukabori.fm/images/ogp.jpg",
       "createdAt": "2023-08-29T14:14:40.152Z"
+    },
+    {
+      "id": "13e1c68b-063c-4946-992a-7ea37b40e8b6",
+      "url": "https://prog-8.com/",
+      "tags": [
+        "beginner",
+        "service"
+      ],
+      "title": "Progate\n | プログラミングの入門なら基礎から学べるProgate[プロゲート]",
+      "description": "Progateはオンラインでプログラミングを学べるサービスです。プログラミングを学んでWEBアプリケーションを作ろう。",
+      "icon": "https://prog-8.com/assets/favicons/light-theme/favicon-production-f844944a94cb1609501bd9075d970df2291fda966574f91630f4c17fa88fd7a7.png",
+      "host": "prog-8.com",
+      "image": "https://prog-8.com/images/ogp/default.png",
+      "createdAt": "2023-08-29T14:17:54.983Z"
     }
   ]
 }
