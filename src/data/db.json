@@ -281,6 +281,24 @@
       "name": "Medium",
       "iconFormat": "webp",
       "createdAt": "2023-08-29T13:59:46.224Z"
+    },
+    {
+      "slug": "unix",
+      "name": "UNIX",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T14:13:49.554Z"
+    },
+    {
+      "slug": "podcast",
+      "name": "Podcast",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T14:13:49.554Z"
+    },
+    {
+      "slug": "java",
+      "name": "Java",
+      "iconFormat": "webp",
+      "createdAt": "2023-08-29T14:14:40.152Z"
     }
   ],
   "docs": [
@@ -717,6 +735,38 @@
       "host": "speakerdeck.com",
       "image": "https://files.speakerdeck.com/presentations/a4b918f3c71b46f591102cfcbcc04ee9/slide_0.jpg?26656860",
       "createdAt": "2023-08-29T14:09:48.050Z"
+    },
+    {
+      "id": "1d19b5a5-f383-48ab-aba1-f0ff760658cf",
+      "url": "https://fukabori.fm/episode/28",
+      "tags": [
+        "web",
+        "unix",
+        "sql",
+        "podcast"
+      ],
+      "title": "28. 技術選定の審美眼(1) w/ twada | fukabori.fm",
+      "description": "twadaさんをゲストに、技術選定の審美眼およびUnix、REST/Web、RDMBS/SQLの共通点について語っていただいたエピソードです。",
+      "icon": "",
+      "host": "fukabori.fm",
+      "image": "https://fukabori.fm/images/ogp.jpg",
+      "createdAt": "2023-08-29T14:13:49.553Z"
+    },
+    {
+      "id": "6c519302-5fb3-403b-8f26-d2be128bf27a",
+      "url": "https://fukabori.fm/episode/29",
+      "tags": [
+        "web",
+        "rails",
+        "java",
+        "podcast"
+      ],
+      "title": "29. 技術選定の審美眼(2) w/ twada | fukabori.fm",
+      "description": "twadaさんをゲストに、前回に引き続き技術選定の審美眼、集中と分散の螺旋について語っていただいたエピソードです。",
+      "icon": "",
+      "host": "fukabori.fm",
+      "image": "https://fukabori.fm/images/ogp.jpg",
+      "createdAt": "2023-08-29T14:14:40.152Z"
     }
   ]
 }
