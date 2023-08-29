@@ -1,7 +1,5 @@
 {
-	"name": "hesoten",
-	"version": "0.0.1",
-	"private": true,
+	"name": "stoc",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
