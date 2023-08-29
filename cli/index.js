@@ -8,6 +8,7 @@ import { JSONFile } from 'lowdb/node';
 import { JSDOM } from 'jsdom';
 import fetch from 'node-fetch';
 import sharp from 'sharp';
+import _ from 'lodash';
 
 export const parseOGP = async ({ body, url }) => {
 	const document = new JSDOM(body).window.document;
@@ -52,7 +53,15 @@ cli
 		await db.read();
 
 		if (db.data.docs?.find((d) => d.url === url)) {
-			console.log(`${url} already exists.`);
+			db.data.docs = db.data.docs.map((d) => {
+				if (d.url === url) {
+					return { ...d, tags: _.uniq([...d.tags, ...tags]) };
+				} else {
+					return d;
+				}
+			});
+			console.log(`${url} is updated.`);
+			db.write();
 			return;
 		}
 
@@ -99,7 +108,7 @@ cli
 					return t;
 				}
 			});
-			console.log(`${slug} is updated to tags list.`);
+			console.log(`${slug} is updated.`);
 		} else {
 			db.data.tags.push({ slug, name, icon: icon ? true : false, createdAt: new Date() });
 			console.log(`${slug} is added to tags list.`);
