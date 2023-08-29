@@ -24,7 +24,7 @@
 </script>
 
 <nav class="text-center">
-	<div class=" py-2 px-3 text-sm rounded inline-flex space-x-2 items-center bg-gray-100">
+	<div class=" py-2 px-3 rounded inline-flex space-x-2 items-center bg-gray-100">
 		<div class="i-lucide-search opacity-30" />
 		<input
 			class="w-[300px] outline-none bg-gray-100 font-bold"
