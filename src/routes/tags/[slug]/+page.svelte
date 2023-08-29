@@ -11,8 +11,8 @@
 </svelte:head>
 
 <div class="flex items-center space-x-2 p-4">
-	{#if data.tag.iconFormat}
-		<img src="/img/tags/{data.tag.slug}.{data.tag.iconFormat}" alt="" width="32px" height="32px" />
+	{#if data.tag.icon}
+		<img src="/img/tags/{data.tag.slug}.webp" alt="" width="32px" height="32px" />
 	{/if}
 	<h1 class="font-bold text-3xl sticky">{data.tag.name}</h1>
 </div>

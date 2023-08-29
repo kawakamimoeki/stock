@@ -8,8 +8,8 @@
 		href="/tags/{tag.slug}"
 		class="flex items-center space-x-1 px-4 py-1 text-gray-600 text-xs rounded bg-gray-100 hover:bg-gray-200 font-bold"
 	>
-		{#if tag.iconFormat}
-			<img src="/img/tags/{tag.slug}.{tag.iconFormat}" alt="" width="12px" height="12px" />
+		{#if tag.icon}
+			<img src="/img/tags/{tag.slug}.webp" alt="" width="12px" height="12px" />
 		{/if}
 		<p>{tag.name}</p>
 	</a>

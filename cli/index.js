@@ -7,6 +7,7 @@ import { Low } from 'lowdb';
 import { JSONFile } from 'lowdb/node';
 import { JSDOM } from 'jsdom';
 import fetch from 'node-fetch';
+import sharp from 'sharp';
 
 export const parseOGP = async ({ body, url }) => {
 	const document = new JSDOM(body).window.document;
@@ -70,24 +71,41 @@ cli
 
 		tags.forEach((tag) => {
 			if (!db.data.tags.find((t) => t.slug === tag)) {
-				db.data.tags.push({ slug: tag, name: tag, iconFormat: '', createdAt: new Date() });
+				db.data.tags.push({ slug: tag, name: tag, icon: false, createdAt: new Date() });
 				console.log(`${tag} is added to tags list.`);
 			}
 		});
 		await db.write();
 	});
 
-cli.command('tag <slug> <name>', 'Add tag').action(async (slug, name) => {
-	const db = new Low(new JSONFile(join('src', 'data', 'db.json')), {});
-	await db.read();
-	if (db.data.tags.find((t) => t.slug === slug)) {
-		console.log(`${slug} already exists.`);
-		return;
-	}
-	db.data.tags.push({ slug, name, iconFormat: '', createdAt: new Date() });
-	console.log(`${slug} is added to tags list.`);
-	await db.write();
-});
+cli
+	.command('tag <slug> <name>', 'Add tag')
+	.option('--icon <icon>', 'Tag icon')
+	.action(async (slug, name, options) => {
+		const icon = options.icon;
+		if (icon) {
+			await sharp(icon)
+				.webp({ lossless: true })
+				.resize({ size: 32 })
+				.toFile(`./static/img/tags/${slug}.webp`);
+		}
+		const db = new Low(new JSONFile(join('src', 'data', 'db.json')), {});
+		await db.read();
+		if (db.data.tags.find((t) => t.slug === slug)) {
+			db.data.tags = db.data.tags.map((t) => {
+				if (t.slug === slug) {
+					return { slug, name, icon: icon ? true : false, createdAt: t.createdAt };
+				} else {
+					return t;
+				}
+			});
+			console.log(`${slug} is updated to tags list.`);
+		} else {
+			db.data.tags.push({ slug, name, icon: icon ? true : false, createdAt: new Date() });
+			console.log(`${slug} is added to tags list.`);
+		}
+		await db.write();
+	});
 
 cli.help();
 

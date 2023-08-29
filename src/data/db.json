@@ -3,338 +3,344 @@
     {
       "slug": "svelte",
       "name": "Svelte",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-28T14:25:20.061Z"
     },
     {
       "slug": "framework",
       "name": "フレームワーク",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-28T14:25:20.061Z"
     },
     {
       "slug": "official",
       "name": "公式",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-28T14:25:20.061Z"
     },
     {
       "slug": "javascript",
       "name": "Javascript",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-28T14:25:20.061Z"
     },
     {
       "slug": "sveltekit",
       "name": "SvelteKit",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-28T14:26:07.300Z"
     },
     {
       "slug": "vercel",
       "name": "Vercel",
-      "iconFormat": "svg",
+      "icon": true,
       "createdAt": "2023-08-28T14:27:37.408Z"
     },
     {
       "slug": "hosting",
       "name": "ホスティング",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-28T14:27:37.408Z"
     },
     {
       "slug": "tailwindcss",
       "name": "tailwindcss",
-      "iconFormat": "svg",
+      "icon": true,
       "createdAt": "2023-08-28T14:28:32.942Z"
     },
     {
       "slug": "css",
       "name": "CSS",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-28T14:28:32.942Z"
     },
     {
       "slug": "nodejs",
       "name": "Node.js",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-28T23:13:17.669Z"
     },
     {
       "slug": "runtime",
       "name": "ランタイム",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-28T23:13:17.669Z"
     },
     {
       "slug": "pnpm",
       "name": "pnpm",
-      "iconFormat": "svg",
+      "icon": true,
       "createdAt": "2023-08-28T23:15:42.182Z"
     },
     {
       "slug": "package-manager",
       "name": "パッケージマネージャー",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-28T23:15:42.182Z"
     },
     {
       "slug": "vitest",
       "name": "Vitest",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-28T23:17:20.142Z"
     },
     {
       "slug": "testing",
       "name": "テスト",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-28T23:17:20.142Z"
     },
     {
       "slug": "vite",
       "name": "Vite",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-28T23:19:02.025Z"
     },
     {
       "slug": "build",
       "name": "ビルドツール",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-28T23:19:02.025Z"
     },
     {
       "slug": "vue",
       "name": "Vue.js",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-28T23:19:02.025Z"
     },
     {
       "slug": "playwright",
       "name": "Playwright",
-      "iconFormat": "svg",
+      "icon": true,
       "createdAt": "2023-08-29T03:26:50.789Z"
     },
     {
       "slug": "e2e",
       "name": "E2E",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T03:26:50.789Z"
     },
     {
       "slug": "unocss",
       "name": "UnoCSS",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T10:08:04.786Z"
     },
     {
       "slug": "ruby",
       "name": "Ruby",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T12:17:27.533Z"
     },
     {
       "slug": "language",
       "name": "プログラミング言語",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T12:17:27.533Z"
     },
     {
       "slug": "rails",
       "name": "Ruby on Rails",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T12:25:08.273Z"
     },
     {
       "slug": "guide",
       "name": "ガイド",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T12:26:36.916Z"
     },
     {
       "slug": "tdd",
       "name": "テスト駆動開発",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T12:31:42.211Z"
     },
     {
       "slug": "book",
       "name": "書籍",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T12:31:42.211Z"
     },
     {
       "slug": "design-pattern",
       "name": "設計手法",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T12:31:42.211Z"
     },
     {
       "slug": "prisma",
       "name": "Prisma",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T12:53:20.867Z"
     },
     {
       "slug": "orm",
       "name": "ORM",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T12:53:53.214Z"
     },
     {
       "slug": "database",
       "name": "データベース",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T12:53:53.214Z"
     },
     {
       "slug": "sql",
       "name": "SQL",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T12:53:53.214Z"
     },
     {
       "slug": "nextjs",
       "name": "Next.js",
-      "iconFormat": "svg",
+      "icon": true,
       "createdAt": "2023-08-29T13:31:55.435Z"
     },
     {
       "slug": "typescript",
       "name": "Typescript",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T13:31:55.435Z"
     },
     {
       "slug": "css-in-js",
       "name": "CSS-in-JS",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:43:31.812Z"
     },
     {
       "slug": "react",
       "name": "React",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T13:43:31.812Z"
     },
     {
       "slug": "storybook",
       "name": "Storybook",
-      "iconFormat": "png",
+      "icon": true,
       "createdAt": "2023-08-29T13:43:31.812Z"
     },
     {
       "slug": "component",
       "name": "コンポーネント",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:44:37.832Z"
     },
     {
       "slug": "zenn",
       "name": "Zenn",
-      "iconFormat": "svg",
+      "icon": true,
       "createdAt": "2023-08-29T13:46:31.972Z"
     },
     {
       "slug": "blog",
       "name": "ブログ",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:46:31.972Z"
     },
     {
       "slug": "browser",
       "name": "ブラウザ",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:52:13.205Z"
     },
     {
       "slug": "web",
       "name": "ウェブ基礎",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:52:13.205Z"
     },
     {
       "slug": "theory",
       "name": "理論",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:52:13.205Z"
     },
     {
       "slug": "softskill",
       "name": "ソフトスキル",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:58:08.955Z"
     },
     {
       "slug": "slide",
       "name": "スライド",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:58:08.955Z"
     },
     {
       "slug": "personal-project",
       "name": "個人開発",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T13:59:46.224Z"
     },
     {
       "slug": "medium",
       "name": "Medium",
-      "iconFormat": "webp",
+      "icon": true,
       "createdAt": "2023-08-29T13:59:46.224Z"
     },
     {
       "slug": "unix",
       "name": "UNIX",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T14:13:49.554Z"
     },
     {
       "slug": "podcast",
       "name": "Podcast",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T14:13:49.554Z"
     },
     {
       "slug": "java",
       "name": "Java",
-      "iconFormat": "webp",
+      "icon": true,
       "createdAt": "2023-08-29T14:14:40.152Z"
     },
     {
       "slug": "beginner",
       "name": "初学者",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T14:17:54.984Z"
     },
     {
       "slug": "service",
       "name": "サービス",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T14:17:54.984Z"
     },
     {
       "slug": "saas",
       "name": "SaaS",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T14:20:24.768Z"
     },
     {
       "slug": "email",
       "name": "メール",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T14:20:24.768Z"
     },
     {
       "slug": "frontend",
       "name": "フロントエンド全般",
-      "iconFormat": "",
+      "icon": false,
       "createdAt": "2023-08-29T14:24:12.770Z"
     },
     {
       "slug": "youtube",
       "name": "YouTube",
-      "iconFormat": "webp",
+      "icon": true,
       "createdAt": "2023-08-29T14:29:12.881Z"
+    },
+    {
+      "slug": "html",
+      "name": "HTML",
+      "icon": true,
+      "createdAt": "2023-08-29T22:01:47.693Z"
     }
   ],
   "docs": [
