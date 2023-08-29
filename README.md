@@ -1,16 +1,17 @@
-<div style="text-align: center; margin-bottom: 12px;">
-<div>
-  <h1>stoc.dev</h1>
-</div>
+<p align="center">
+  <a href="https://stoc.dev" target="_blank" rel="noopener noreferrer">
+    <img width="360" src="./static/ogp.png" alt="">
+  </a>
+</p>
+<br/>
+<p align="center">
 <img src="https://img.shields.io/github/languages/top/moekidev/stoc.dev" />
-<img src="https://img.shields.io/badge/deployed_on_vercel" />
 <img src="https://img.shields.io/github/last-commit/moekidev/stoc.dev" />
 <img src="https://img.shields.io/github/stars/moekidev/stoc.dev" />
 <img src="https://img.shields.io/github/license/moekidev/stoc.dev" />
 <img src="https://img.shields.io/discord/1146215375986511934" />
-</div>
-
-<img src="./static/screenshot.png" alt="" style="border-radius: 12px;" />
+</p>
+<br/>
 
 ## Purpose
 
