@@ -323,6 +323,12 @@
       "name": "メール",
       "iconFormat": "",
       "createdAt": "2023-08-29T14:20:24.768Z"
+    },
+    {
+      "slug": "frontend",
+      "name": "フロントエンド全般",
+      "iconFormat": "",
+      "createdAt": "2023-08-29T14:24:12.770Z"
     }
   ],
   "docs": [
@@ -820,6 +826,22 @@
       "host": "resend.com",
       "image": "",
       "createdAt": "2023-08-29T14:20:24.768Z"
+    },
+    {
+      "id": "cb2cbdf9-d10f-4d89-af29-29b9f5398d4b",
+      "url": "https://zenn.dev/bitarts/articles/37260ddb28ae5d",
+      "tags": [
+        "zenn",
+        "blog",
+        "web",
+        "frontend"
+      ],
+      "title": "図解 CSR, SSR, SG(SSG), ISR",
+      "description": "",
+      "icon": "https://zenn.dev/images/logo-transparent.png",
+      "host": "zenn.dev",
+      "image": "https://res.cloudinary.com/zenn/image/upload/s--Ze-fSVFK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259B%25B3%25E8%25A7%25A3%2520CSR%252C%2520SSR%252C%2520SG%2528SSG%2529%252C%2520ISR%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BF%25E3%2582%2584%25E3%2581%25BE%25E3%2581%2588%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pqR0g4N3lFcEtnVHVjYVBRZmd6NVNycE1IaFlWQ2FHWnVGOXFOa0E9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
+      "createdAt": "2023-08-29T14:24:12.770Z"
     }
   ]
 }
