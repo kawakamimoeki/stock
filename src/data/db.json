@@ -700,6 +700,23 @@
       "host": "blog.craftz.dog",
       "image": "https://miro.medium.com/v2/resize:fit:1200/1*CLs1Avtdc1QXAwzQUa7TDQ.jpeg",
       "createdAt": "2023-08-29T13:59:46.223Z"
+    },
+    {
+      "id": "b0e4828c-67e2-48d5-b3fe-9d25a665ac08",
+      "url": "https://speakerdeck.com/recruitengineers/react-2023",
+      "tags": [
+        "react",
+        "javascript",
+        "slide",
+        "typescript",
+        "web"
+      ],
+      "title": "React - Speaker Deck",
+      "description": "2023年度リクルート エンジニアコース新人研修の講義資料です",
+      "icon": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png",
+      "host": "speakerdeck.com",
+      "image": "https://files.speakerdeck.com/presentations/a4b918f3c71b46f591102cfcbcc04ee9/slide_0.jpg?26656860",
+      "createdAt": "2023-08-29T14:09:48.050Z"
     }
   ]
 }
