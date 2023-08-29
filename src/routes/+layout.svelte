@@ -40,12 +40,13 @@
 <header class="p-4 max-w-4xl mx-auto flex items-center text-center w-full">
 	<a class="font-bold" href="/">stoc.dev</a>
 	<div class="grow" />
-	<a href="/feed" target="_blank" class="block hover:bg-gray-50 rounded-full p-3">
+	<a href="/feed" aria-label="RSS" target="_blank" class="block hover:bg-gray-50 rounded-full p-3">
 		<div class="i-lucide-rss" />
 	</a>
 	<a
 		href="https://github.com/moekidev/stoc.dev"
 		target="_blank"
+		aria-label="GitHub"
 		class="block hover:bg-gray-50 rounded-full p-3"
 	>
 		<div class="i-lucide-github" />
