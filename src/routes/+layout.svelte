@@ -44,6 +44,14 @@
 		<div class="i-lucide-rss" />
 	</a>
 	<a
+		href="https://discord.gg/WTy8tpvZUn"
+		aria-label="Discord"
+		target="_blank"
+		class="block hover:bg-gray-50 rounded-full p-3"
+	>
+		<div class="i-bxl-discord-alt" />
+	</a>
+	<a
 		href="https://github.com/moekidev/stoc.dev"
 		target="_blank"
 		aria-label="GitHub"
