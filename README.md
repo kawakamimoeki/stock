@@ -38,7 +38,7 @@ If the tag already exists, it is updated.
 ## Development
 
 ```
-gh clone moekidev/stoc.dev
+gh repo clone moekidev/stoc.dev
 ```
 
 ```
