@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://stoc.dev" target="_blank" rel="noopener noreferrer">
-    <img width="360" src="./static/ogp.png" alt="">
+    <img width="560" src="./static/ogp.png" alt="">
   </a>
 </p>
 <br/>
