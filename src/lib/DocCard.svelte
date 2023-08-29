@@ -19,7 +19,7 @@
 		<p class="text-gray-500 font-bold text-sm">{doc.host}</p>
 	</div>
 	<h2 class="font-bold text-xl break-all text-gray-800">
-		<a href="/docs/{doc.id}" target="_blank" class="cursor-pointer hover:underline">{doc.title}</a>
+		<a href="/docs/{doc.id}" class="cursor-pointer hover:underline">{doc.title}</a>
 	</h2>
 	<p class="break-all text-gray-600 text-sm mb-3">{doc.description}</p>
 	<div class="flex gap-2 text-xs items-center flex-wrap">
