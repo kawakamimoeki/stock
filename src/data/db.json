@@ -341,6 +341,12 @@
       "name": "HTML",
       "icon": true,
       "createdAt": "2023-08-29T22:01:47.693Z"
+    },
+    {
+      "slug": "git",
+      "name": "Git",
+      "icon": true,
+      "createdAt": "2023-08-29T22:31:42.380Z"
     }
   ],
   "docs": [
@@ -886,6 +892,21 @@
       "host": "www.youtube.com",
       "image": "https://i.ytimg.com/vi/Gzj723LkRJY/maxresdefault.jpg",
       "createdAt": "2023-08-29T14:29:12.880Z"
+    },
+    {
+      "id": "3be60fbb-4ed7-40ae-96d1-a7d1f17d6fc3",
+      "url": "https://learngitbranching.js.org/?locale=ja",
+      "tags": [
+        "git",
+        "web",
+        "beginner"
+      ],
+      "title": "Learn Git Branching",
+      "description": "An interactive Git visualization tool to educate and challenge!",
+      "icon": "https://learngitbranching.js.org/assets/favicon.ico",
+      "host": "learngitbranching.js.org",
+      "image": "https://pcottle.github.io/learnGitBranching/assets/learnGitBranching.png",
+      "createdAt": "2023-08-29T22:31:42.380Z"
     }
   ]
 }
