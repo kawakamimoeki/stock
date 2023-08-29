@@ -1,6 +1,16 @@
-![STOC](./static/ogp.png)
+<div style="text-align: center; margin-bottom: 12px;">
+<div>
+  <h1>stoc.dev</h1>
+</div>
+<img src="https://img.shields.io/github/languages/top/moekidev/stoc.dev" />
+<img src="https://img.shields.io/badge/deployed_on_vercel" />
+<img src="https://img.shields.io/github/last-commit/moekidev/stoc.dev" />
+<img src="https://img.shields.io/github/stars/moekidev/stoc.dev" />
+<img src="https://img.shields.io/github/license/moekidev/stoc.dev" />
+<img src="https://img.shields.io/discord/1146215375986511934" />
+</div>
 
-Where developers share knowledge.
+<img src="./static/screenshot.png" alt="" style="border-radius: 12px;" />
 
 ## Purpose
 
@@ -23,3 +33,19 @@ npx stoc tag example-tag "Example Tag" --icon /path/to/image
 ```
 
 If the tag already exists, it is updated.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=moekidev/stoc.dev&type=Date)](https://star-history.com/#moekidev/stoc.dev)
+
+## Contribution
+
+Bug reports and pull requests should be sent to https://github.com/moekidev/stoc.dev on GitHub. This project aims to be a safe and welcoming space for collaboration, and contributors are expected to abide by the [Code of Conduct](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md).
+
+## License
+
+This application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Code of Conduct
+
+All people interacting with the stoc.dev project codebase, issue tracker, chat rooms, and mailing lists are expected to follow the [Code of Conduct](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md).
