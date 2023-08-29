@@ -35,6 +35,24 @@ npx stoc tag example-tag "Example Tag" --icon /path/to/image
 
 If the tag already exists, it is updated.
 
+## Development
+
+```
+gh clone moekidev/stoc.dev
+```
+
+```
+cd stoc.dev
+```
+
+```
+npm i
+```
+
+```
+npm run dev
+```
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=moekidev/stoc.dev&type=Date)](https://star-history.com/#moekidev/stoc.dev)
@@ -50,3 +68,4 @@ This application is available as open source under the terms of the [MIT License
 ## Code of Conduct
 
 All people interacting with the stoc.dev project codebase, issue tracker, chat rooms, and mailing lists are expected to follow the [Code of Conduct](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md).
+```
