@@ -347,6 +347,12 @@
       "name": "Git",
       "icon": true,
       "createdAt": "2023-08-29T22:31:42.380Z"
+    },
+    {
+      "slug": "github",
+      "name": "GitHub",
+      "icon": true,
+      "createdAt": "2023-08-29T22:44:08.314Z"
     }
   ],
   "docs": [
@@ -907,6 +913,20 @@
       "host": "learngitbranching.js.org",
       "image": "https://pcottle.github.io/learnGitBranching/assets/learnGitBranching.png",
       "createdAt": "2023-08-29T22:31:42.380Z"
+    },
+    {
+      "id": "de9d2207-7067-4148-a5b1-cc86e9d13a16",
+      "url": "https://shields.io/",
+      "tags": [
+        "github",
+        "service"
+      ],
+      "title": "Shields.io | Shields.io",
+      "description": "Concise, consistent, and legible badges",
+      "icon": "https://shields.io/img/favicon.ico",
+      "host": "shields.io",
+      "image": "",
+      "createdAt": "2023-08-29T22:44:08.313Z"
     }
   ]
 }
