@@ -10,9 +10,11 @@
 	<title>{data.doc.title} - stoc.dev</title>
 </svelte:head>
 
-<div class="p-4">
-	<img src={data.doc.image} alt="" width="400px" height="210" class="mx-auto my-8 rounded" />
-</div>
+{#if data.doc.image}
+	<div class="p-4">
+		<img src={data.doc.image} alt="" width="400px" height="210" class="mx-auto my-8 rounded" />
+	</div>
+{/if}
 
 <div class="flex items-center space-x-2 p-4">
 	{#if data.doc.icon}
@@ -30,8 +32,12 @@
 
 <div class="text-center p-4">
 	<a
-		class="bg-green-600 py-2 px-5 hover:bg-green-700 text-white rounded font-bold"
+		class="bg-green-600 gap-2 inline-flex items-center py-2 px-5 hover:bg-green-700 text-white rounded font-bold"
 		href={data.doc.url}
-		target="_blank">VISIT WEBSITE</a
+		target="_blank"
+	>
+		<div>VISIT WEBSITE</div>
+		<div class="i-lucide-external-link" />
+	</a
 	>
 </div>
