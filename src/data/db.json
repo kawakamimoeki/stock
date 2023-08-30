@@ -379,7 +379,7 @@
       "createdAt": "2023-08-30T00:13:11.076Z"
     },
     {
-      "slug": "documentation",
+      "slug": "documentations",
       "name": "ドキュメント",
       "icon": false,
       "createdAt": "2023-08-30T00:13:11.076Z"
@@ -467,6 +467,30 @@
       "name": "アーキテクチャ",
       "icon": false,
       "createdAt": "2023-08-30T05:54:49.888Z"
+    },
+    {
+      "slug": "serverless",
+      "name": "serverless",
+      "icon": false,
+      "createdAt": "2023-08-30T06:11:57.993Z"
+    },
+    {
+      "slug": "cloudflare",
+      "name": "CloudFalre",
+      "icon": false,
+      "createdAt": "2023-08-30T06:11:57.993Z"
+    },
+    {
+      "slug": "cdn",
+      "name": "CDN",
+      "icon": false,
+      "createdAt": "2023-08-30T06:11:57.993Z"
+    },
+    {
+      "slug": "edge",
+      "name": "エッジコンピューティング",
+      "icon": false,
+      "createdAt": "2023-08-30T06:11:57.993Z"
     }
   ],
   "docs": [
@@ -1128,7 +1152,7 @@
       "url": "https://www.ai-native.dev/docs/v/ja/",
       "tags": [
         "copilot",
-        "documentation",
+        "documentations",
         "programming",
         "llm",
         "practice"
@@ -1228,7 +1252,7 @@
       "id": "6159becc-057f-4f28-8fbe-e4bd0a315c5a",
       "url": "https://fujiharuka.github.io/google-eng-practices-ja/",
       "tags": [
-        "documentation",
+        "documentations",
         "google",
         "development",
         "github",
@@ -1334,6 +1358,24 @@
       "host": "gist.github.com",
       "image": "https://github.githubassets.com/images/modules/gists/gist-og-image.png",
       "createdAt": "2023-08-30T05:56:05.248Z"
+    },
+    {
+      "id": "87c61856-d1df-4656-9d17-b3d9ff5ce68d",
+      "url": "https://www.cloudflare.com/ja-jp/learning/",
+      "tags": [
+        "serverless",
+        "cloudflare",
+        "cdn",
+        "web",
+        "edge",
+        "documentations"
+      ],
+      "title": "Just a moment...",
+      "description": "",
+      "icon": "",
+      "host": "www.cloudflare.com",
+      "image": "",
+      "createdAt": "2023-08-30T06:11:57.993Z"
     }
   ]
 }
