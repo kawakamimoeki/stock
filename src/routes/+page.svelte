@@ -62,7 +62,7 @@
 {/if}
 
 <h2 class="p-4 font-bold text-4xl">Tags</h2>
-<div class="flex gap-2 items-center flex-wrap p-4">
+<div class="flex gap-2 items-center flex-wrap p-4 justify-center">
 	{#each data.tags as tag}
 		<TagCard {tag} />
 	{/each}
