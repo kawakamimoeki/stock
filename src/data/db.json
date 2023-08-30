@@ -575,6 +575,18 @@
       "name": "コンピューター",
       "icon": false,
       "createdAt": "2023-08-30T09:57:38.452Z"
+    },
+    {
+      "slug": "ui",
+      "name": "UI",
+      "icon": false,
+      "createdAt": "2023-08-30T13:02:21.936Z"
+    },
+    {
+      "slug": "design",
+      "name": "デザイン",
+      "icon": false,
+      "createdAt": "2023-08-30T13:02:21.936Z"
     }
   ],
   "docs": [
@@ -1962,6 +1974,21 @@
       "host": "misreading.chat",
       "image": "https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?w=200",
       "createdAt": "2023-08-30T10:19:21.594Z"
+    },
+    {
+      "id": "d077e6f1-87d4-4aac-996e-640b9d454a91",
+      "url": "https://github.com/kufu/smarthr-ui",
+      "tags": [
+        "ui",
+        "storybook",
+        "design"
+      ],
+      "title": "GitHub - kufu/smarthr-ui: React components for creating SmartHR applications.",
+      "description": "React components for creating SmartHR applications. - GitHub - kufu/smarthr-ui: React components for creating SmartHR applications.",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "host": "github.com",
+      "image": "https://opengraph.githubassets.com/08471cc53c5ea3b01213f793f511c473968beca714066cadf3ab6915d9550fb7/kufu/smarthr-ui",
+      "createdAt": "2023-08-30T13:02:50.098Z"
     }
   ]
 }
