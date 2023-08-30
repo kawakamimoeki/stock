@@ -28,6 +28,10 @@
 	export let random = shuffle(data.docs).slice(0, 10);
 </script>
 
+<svelte:head>
+	<link href="https://stoc.dev/feed" rel="alternate" title="stoc.dev" type="application/rss+xml" />
+</svelte:head>
+
 <div class="p-4 text-center">
 	<h2 class="text-2xl font-bold mb-4">特集</h2>
 	<div class="overflow-x-scroll scrollbar-none mx-auto max-w-sm">
