@@ -1880,6 +1880,40 @@
       "host": "www.ogis-ri.co.jp",
       "image": "https://www.ogis-ri.co.jp/otc/hiroba/img/hiroba_logo_fb_ogp.png",
       "createdAt": "2023-08-30T09:57:38.451Z"
+    },
+    {
+      "id": "6accbb34-1d8e-49fc-b3c5-dbe1c0218de9",
+      "url": "https://blog.webf.zone/you-dont-need-next-js-and-ssr-7c6bd27e78d8",
+      "tags": [
+        "nextjs",
+        "nodejs",
+        "frontend",
+        "web",
+        "blog",
+        "medium"
+      ],
+      "title": "You Don’t Need Next.js (and SSR). Next is an amazing framework but there… | by Harshal Patil | webf",
+      "description": "Next is an amazing framework but there are limited use-cases where you should embrace it. Picking right tool for the right job is…",
+      "icon": "https://miro.medium.com/v2/resize:fill:256:256/1*aiFPAU-bcYvWQFPJPqK2VQ.png",
+      "host": "blog.webf.zone",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*gE81kxBssrhS4FzyuQ-pyg.png",
+      "createdAt": "2023-08-30T10:11:19.924Z"
+    },
+    {
+      "id": "46f9ef8b-1550-42c8-9288-f5867c0fffdc",
+      "url": "https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231",
+      "tags": [
+        "frontend",
+        "architecture",
+        "blog",
+        "medium"
+      ],
+      "title": "Contemporary Front-end Architectures | by Harshal Patil | webf",
+      "description": "How we got here? A front-end engineer’s perspective!",
+      "icon": "https://miro.medium.com/v2/resize:fill:256:256/1*aiFPAU-bcYvWQFPJPqK2VQ.png",
+      "host": "blog.webf.zone",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*v3KuRCLBRyahUEd3LvRbgQ.png",
+      "createdAt": "2023-08-30T10:11:52.702Z"
     }
   ]
 }
