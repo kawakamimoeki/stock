@@ -2051,6 +2051,21 @@
       "host": "polaris.shopify.com",
       "image": "/og-images/home.png",
       "createdAt": "2023-08-30T13:08:49.591Z"
+    },
+    {
+      "id": "33bb26d5-62a8-4775-bac4-8776785f37fb",
+      "url": "https://primer.style/design/",
+      "tags": [
+        "ui",
+        "design",
+        "company"
+      ],
+      "title": "Primer",
+      "description": "Principles, standards, and usage guidelines for designing GitHub interfaces.",
+      "icon": "https://primer.style/design/favicon-32x32.png?v=f3da5bc9ee21801506bcf83c84f79ae4",
+      "host": "primer.style",
+      "image": "https://user-images.githubusercontent.com/10384315/53922681-2f6d3100-402a-11e9-9719-5d1811c8110a.png",
+      "createdAt": "2023-08-30T13:10:05.459Z"
     }
   ]
 }
