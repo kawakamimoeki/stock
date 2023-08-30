@@ -1319,6 +1319,21 @@
       "host": "qiita.com",
       "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUU2JThBJTgwJUU4JUExJTkzJUU5JTgxJUI4JUU1JUFFJTlBJTJGJUUzJTgyJUEyJUUzJTgzJUJDJUUzJTgyJUFEJUUzJTgzJTg2JUUzJTgyJUFGJUUzJTgzJTgxJUUzJTgzJUEzJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgxJUE3JUU1JUJFJThDJUU2JTgyJTk0JUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFFJUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJUIzJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lOWVjNGFmZDVhOTkwMDVlOWM1NGVjNzZlZDYxNzZmOA&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwaGlyb2tpZGFpY2hpJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz00MmViZmQ0YmEwMzUxYTZmMGQyZjFhNWVhNzIyYjI2MA&blend-x=142&blend-y=491&blend-mode=normal&s=d38481777b05a38df8546a9f4346f86f",
       "createdAt": "2023-08-30T05:54:49.887Z"
+    },
+    {
+      "id": "cb075a7f-3c9a-4222-85d6-f15736f2b6e4",
+      "url": "https://gist.github.com/mpppk/609d592f25cab9312654b39f1b357c60",
+      "tags": [
+        "development",
+        "blog",
+        "architecture"
+      ],
+      "title": "クリーンアーキテクチャ完全に理解した · GitHub",
+      "description": "クリーンアーキテクチャ完全に理解した. GitHub Gist: instantly share code, notes, and snippets.",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "host": "gist.github.com",
+      "image": "https://github.githubassets.com/images/modules/gists/gist-og-image.png",
+      "createdAt": "2023-08-30T05:56:05.248Z"
     }
   ]
 }
