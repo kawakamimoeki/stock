@@ -557,6 +557,18 @@
       "name": "パフォーマンス",
       "icon": false,
       "createdAt": "2023-08-30T08:24:09.948Z"
+    },
+    {
+      "slug": "npm",
+      "name": "npm",
+      "icon": true,
+      "createdAt": "2023-08-30T08:26:23.282Z"
+    },
+    {
+      "slug": "yarn",
+      "name": "Yarn",
+      "icon": true,
+      "createdAt": "2023-08-30T08:26:23.282Z"
     }
   ],
   "docs": [
@@ -1782,6 +1794,40 @@
       "host": "github.com",
       "image": "https://opengraph.githubassets.com/6aea511f09bacda7c4ac54d5212bb097e470dc22f79eec0401a114a2b413ddf7/kostya/benchmarks",
       "createdAt": "2023-08-30T08:24:09.948Z"
+    },
+    {
+      "id": "15df0a7e-c592-4819-b39b-e3af097dee77",
+      "url": "https://jser.info/",
+      "tags": [
+        "javascript",
+        "nodejs",
+        "bun",
+        "deno",
+        "blog"
+      ],
+      "title": "JSer.info",
+      "description": "JavaScriptの最新情報を紹介する週刊ブログ",
+      "icon": "https://jser.info/public/img/favicon/favicon-32x32.png",
+      "host": "jser.info",
+      "image": "https://jser.info/media/logo.png",
+      "createdAt": "2023-08-30T08:25:01.849Z"
+    },
+    {
+      "id": "9a287419-c4d2-42c7-8541-037e6d558c1d",
+      "url": "https://zenn.dev/saggggo/articles/dbd739508ac212",
+      "tags": [
+        "package-manager",
+        "javascript",
+        "pnpm",
+        "npm",
+        "yarn"
+      ],
+      "title": "node_modulesの問題点とその歴史 npm, yarnとpnpm",
+      "description": "",
+      "icon": "https://static.zenn.studio/images/logo-transparent.png",
+      "host": "zenn.dev",
+      "image": "https://res.cloudinary.com/zenn/image/upload/s--KW_rPyUv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:node_modules%25E3%2581%25AE%25E5%2595%258F%25E9%25A1%258C%25E7%2582%25B9%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520npm%252C%2520yarn%25E3%2581%25A8pnpm%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Saggggo%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiODM5YjZmYzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
+      "createdAt": "2023-08-30T08:26:23.281Z"
     }
   ]
 }

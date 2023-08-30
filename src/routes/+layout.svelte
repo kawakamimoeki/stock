@@ -25,10 +25,10 @@
 
 <svelte:head>
 	<title>stoc.dev</title>
-	<meta name="description" content="Where developers share knowledge." />
+	<meta name="description" content="開発者が有益な情報へ効率的にたどり着くためのリンク集" />
 	<meta property="og:site_name" content="Stoc" />
 	<meta property="og:title" content="Stoc" />
-	<meta property="og:description" content="Where developers share knowledge." />
+	<meta property="og:description" content="開発者が有益な情報へ効率的にたどり着くためのリンク集" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://stoc.dev/" />
 	<meta property="og:local" content="ja-JP" />
