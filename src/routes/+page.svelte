@@ -26,6 +26,10 @@
 	};
 
 	export let random = shuffle(data.docs).slice(0, 10);
+
+	const refresh = () => {
+		random = shuffle(data.docs).slice(0, 10);
+	};
 </script>
 
 <svelte:head>
@@ -39,7 +43,12 @@
 	{/each}
 </div>
 
-<h2 class="p-4 font-bold text-4xl">Random</h2>
+<div class="p-4 items-center gap-2">
+	<h2 class="font-bold mb-2 text-4xl">Random</h2>
+	<button class="flex bg-gray-800 border-gray-800 hover:bg-gray-900 text-xs px-2 py-1 rounded text-white font-bold items-center gap-1" on:click={refresh}
+		>Reload <div class="i-lucide-refresh-ccw" /></button
+	>
+</div>
 <div class="p-4">
 	{#each random as doc}
 		<DocCard {doc} tags={data.tags} />
