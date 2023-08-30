@@ -5,7 +5,7 @@ import _ from 'lodash';
 export async function GET() {
 	const feed = new RSS({
 		title: 'stoc.dev',
-		description: '開発者が有益な情報へ効率的にたどり着くためのリンク集サイト',
+		description: '開発者が有益な情報へ効率的にたどり着くためのリンク集',
 		feed_url: 'https://stoc.dev/feed',
 		site_url: 'https://stoc.dev',
 		image_url: 'https://stoc.dev/ogp.png',
