@@ -569,6 +569,12 @@
       "name": "Yarn",
       "icon": true,
       "createdAt": "2023-08-30T08:26:23.282Z"
+    },
+    {
+      "slug": "computer",
+      "name": "コンピューター",
+      "icon": false,
+      "createdAt": "2023-08-30T09:57:38.452Z"
     }
   ],
   "docs": [
@@ -1844,6 +1850,36 @@
       "host": "developers.google.com",
       "image": "https://developers.google.com/static/search/images/home-social-share-lockup.jpg?hl=ja",
       "createdAt": "2023-08-30T09:52:59.004Z"
+    },
+    {
+      "id": "d90b6ce1-f390-43d6-9d1e-f115519643fb",
+      "url": "https://web.dev/i18n/ja/vitals/",
+      "tags": [
+        "seo",
+        "performance",
+        "google",
+        "web"
+      ],
+      "title": "Web Vitals",
+      "description": "サイトの健全性を判断するための重要な指標",
+      "icon": "https://web.dev/images/favicon-32x32.png",
+      "host": "web.dev",
+      "image": "https://web-dev.imgix.net/image/admin/BHaoqqR73jDWe6FL2kfw.png?auto=format&fit=max&w=1200&fm=auto",
+      "createdAt": "2023-08-30T09:55:07.271Z"
+    },
+    {
+      "id": "1ab6db63-8488-4a82-9b3d-d69f9d899cda",
+      "url": "https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part1.html",
+      "tags": [
+        "standard",
+        "computer"
+      ],
+      "title": "(プログラマのための) いまさら聞けない標準規格の話 第1回 文字コード概要編 | オブジェクトの広場",
+      "description": "プログラマがシステム開発において共通で必要となる、技術と業務の狭間の共通知識を解説します。連載第1回は文字コードの概要編です。",
+      "icon": "",
+      "host": "www.ogis-ri.co.jp",
+      "image": "https://www.ogis-ri.co.jp/otc/hiroba/img/hiroba_logo_fb_ogp.png",
+      "createdAt": "2023-08-30T09:57:38.451Z"
     }
   ]
 }
