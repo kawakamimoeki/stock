@@ -533,6 +533,12 @@
       "name": "SEO",
       "icon": false,
       "createdAt": "2023-08-30T07:52:39.017Z"
+    },
+    {
+      "slug": "internet",
+      "name": "インターネット",
+      "icon": false,
+      "createdAt": "2023-08-30T08:03:09.776Z"
     }
   ],
   "docs": [
@@ -1661,6 +1667,21 @@
       "host": "github.com",
       "image": "https://repository-images.githubusercontent.com/21737465/46445f80-a5ae-11ea-921f-c39aefbcdcac",
       "createdAt": "2023-08-30T08:01:54.794Z"
+    },
+    {
+      "id": "c50ae990-af34-41e4-b23c-024edc560095",
+      "url": "https://developer.mozilla.org/ja/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work",
+      "tags": [
+        "internet",
+        "theory",
+        "learning"
+      ],
+      "title": "インターネットはどのように動くのか？ - ウェブ開発を学ぶ | MDN",
+      "description": "この記事はインターネットの仕組みとどのように動いているかを説明します。",
+      "icon": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+      "host": "developer.mozilla.org",
+      "image": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+      "createdAt": "2023-08-30T08:03:09.776Z"
     }
   ]
 }
