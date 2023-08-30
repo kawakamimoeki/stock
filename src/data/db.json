@@ -425,6 +425,18 @@
       "name": "Google",
       "icon": true,
       "createdAt": "2023-08-30T00:29:14.177Z"
+    },
+    {
+      "slug": "accessibility",
+      "name": "アクセシビリティ",
+      "icon": false,
+      "createdAt": "2023-08-30T00:31:28.436Z"
+    },
+    {
+      "slug": "learning",
+      "name": "学習",
+      "icon": false,
+      "createdAt": "2023-08-30T00:31:28.436Z"
     }
   ],
   "docs": [
@@ -1162,6 +1174,23 @@
       "host": "cloud.google.com",
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DevOps_BlogHeader_A_Rnd3.max-2800x2800.jpg",
       "createdAt": "2023-08-30T00:29:14.177Z"
+    },
+    {
+      "id": "dc51fc3f-a3ca-4e89-aee1-29ff266d7277",
+      "url": "https://web.dev/learn/accessibility/",
+      "tags": [
+        "accessibility",
+        "beginners",
+        "learning",
+        "web",
+        "google"
+      ],
+      "title": "Learn Accessibility",
+      "description": "An evergreen accessibility course and reference to level up your web development.",
+      "icon": "https://web.dev/images/favicon-32x32.png",
+      "host": "web.dev",
+      "image": "https://web-dev.imgix.net/image/VbsHyyQopiec0718rMq2kTE1hke2/03dCg7PsCbcwblqRHYMB.png?auto=format&fit=max&w=1200&fm=auto",
+      "createdAt": "2023-08-30T00:31:28.436Z"
     }
   ]
 }
