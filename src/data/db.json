@@ -1714,6 +1714,23 @@
       "host": "www.realworld.how",
       "image": "",
       "createdAt": "2023-08-30T08:09:32.787Z"
+    },
+    {
+      "id": "b72fea35-7713-480e-b4ae-9b8430186719",
+      "url": "https://mbeaudru.github.io/modern-js-cheatsheet/",
+      "tags": [
+        "javscript",
+        "guide",
+        "learning",
+        "practice",
+        "javascript"
+      ],
+      "title": "Modern JavaScript Cheatsheet | Modern JS Cheatsheet",
+      "description": "Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.",
+      "icon": "",
+      "host": "mbeaudru.github.io",
+      "image": "",
+      "createdAt": "2023-08-30T08:11:12.617Z"
     }
   ]
 }
