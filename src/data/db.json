@@ -1010,6 +1010,21 @@
       "host": "www.ecma-international.org",
       "image": "",
       "createdAt": "2023-08-29T23:56:25.698Z"
+    },
+    {
+      "id": "56819d92-9b24-4e94-8ea2-9b6444e97252",
+      "url": "https://www.tohoho-web.com/html/memo/htmlls.htm",
+      "tags": [
+        "html",
+        "web",
+        "history"
+      ],
+      "title": "HTML Living StandardとHTMLの歴史 - とほほのWWW入門",
+      "description": "",
+      "icon": "",
+      "host": "www.tohoho-web.com",
+      "image": "",
+      "createdAt": "2023-08-30T00:11:05.353Z"
     }
   ]
 }
