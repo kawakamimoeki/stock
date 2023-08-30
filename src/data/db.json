@@ -449,6 +449,12 @@
       "name": "プラクティス",
       "icon": false,
       "createdAt": "2023-08-30T00:45:39.844Z"
+    },
+    {
+      "slug": "service",
+      "name": "サービス",
+      "icon": false,
+      "createdAt": "2023-08-30T00:49:11.116Z"
     }
   ],
   "docs": [
@@ -1255,6 +1261,20 @@
       "host": "rework.withgoogle.com",
       "image": "https://rework.withgoogle.com/static/a25cc87f/public/images/social-share-image.png",
       "createdAt": "2023-08-30T00:47:21.364Z"
+    },
+    {
+      "id": "1fb00d96-c5b7-427d-8ea3-dc6134421445",
+      "url": "https://lapras.com/",
+      "tags": [
+        "service",
+        "softskill"
+      ],
+      "title": "LAPRAS - AI技術で、ひとりひとりに合った新たな可能性を送り届けるサービス -",
+      "description": "LAPRASは主にエンジニアの方向けに、すぐれた機械学習技術とクローリング技術を使い、インターネット上でオープンになっているあなたの情報を集め、あなたの「プロフィール」を自動生成します。さらなる成長の機会と活躍の場を、あなたが求める時に、LAPRASは提供します。",
+      "icon": "https://lapras.com/lp/assets/favicon-4915d73c.ico",
+      "host": "lapras.com",
+      "image": "https://lapras.com/lp/og.png",
+      "createdAt": "2023-08-30T00:49:11.116Z"
     }
   ]
 }
