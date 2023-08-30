@@ -61,6 +61,12 @@ cli
 				}
 			});
 			console.log(`${url} is updated.`);
+			tags.forEach((tag) => {
+				if (!db.data.tags.find((t) => t.slug === tag)) {
+					db.data.tags.push({ slug: tag, name: tag, icon: false, createdAt: new Date() });
+					console.log(`${tag} is added to tags list.`);
+				}
+			});
 			db.write();
 			return;
 		}

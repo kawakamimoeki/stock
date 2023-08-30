@@ -389,6 +389,12 @@
       "name": "プログラミング",
       "icon": false,
       "createdAt": "2023-08-30T00:13:11.076Z"
+    },
+    {
+      "slug": "llm",
+      "name": "LLM",
+      "icon": false,
+      "createdAt": "2023-08-30T00:15:35.357Z"
     }
   ],
   "docs": [
@@ -1051,7 +1057,8 @@
       "tags": [
         "copilot",
         "documentation",
-        "programming"
+        "programming",
+        "llm"
       ],
       "title": "ようこそ - GitHub Copilot - Patterns & Exercises",
       "description": "GitHub Copilot Patterns & Exercises",
