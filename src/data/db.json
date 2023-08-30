@@ -2066,6 +2066,21 @@
       "host": "primer.style",
       "image": "https://user-images.githubusercontent.com/10384315/53922681-2f6d3100-402a-11e9-9719-5d1811c8110a.png",
       "createdAt": "2023-08-30T13:10:05.459Z"
+    },
+    {
+      "id": "3083adec-3984-4f44-af1e-cdecef5d2923",
+      "url": "https://waku.gg/",
+      "tags": [
+        "react",
+        "framework",
+        "javascript"
+      ],
+      "title": "Waku website",
+      "description": "",
+      "icon": "",
+      "host": "waku.gg",
+      "image": "",
+      "createdAt": "2023-08-30T13:11:37.624Z"
     }
   ]
 }
