@@ -575,6 +575,36 @@
       "name": "コンピューター",
       "icon": false,
       "createdAt": "2023-08-30T09:57:38.452Z"
+    },
+    {
+      "slug": "ui",
+      "name": "UI",
+      "icon": false,
+      "createdAt": "2023-08-30T13:02:21.936Z"
+    },
+    {
+      "slug": "design",
+      "name": "デザイン",
+      "icon": false,
+      "createdAt": "2023-08-30T13:02:21.936Z"
+    },
+    {
+      "slug": "library",
+      "name": "ライブラリ",
+      "icon": false,
+      "createdAt": "2023-08-30T13:05:58.237Z"
+    },
+    {
+      "slug": "company",
+      "name": "企業",
+      "icon": false,
+      "createdAt": "2023-08-30T13:08:49.591Z"
+    },
+    {
+      "slug": "pattern",
+      "name": "デザインパターン",
+      "icon": false,
+      "createdAt": "2023-08-30T13:16:20.909Z"
     }
   ],
   "docs": [
@@ -1962,6 +1992,134 @@
       "host": "misreading.chat",
       "image": "https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?w=200",
       "createdAt": "2023-08-30T10:19:21.594Z"
+    },
+    {
+      "id": "d077e6f1-87d4-4aac-996e-640b9d454a91",
+      "url": "https://github.com/kufu/smarthr-ui",
+      "tags": [
+        "ui",
+        "storybook",
+        "design",
+        "company"
+      ],
+      "title": "GitHub - kufu/smarthr-ui: React components for creating SmartHR applications.",
+      "description": "React components for creating SmartHR applications. - GitHub - kufu/smarthr-ui: React components for creating SmartHR applications.",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "host": "github.com",
+      "image": "https://opengraph.githubassets.com/08471cc53c5ea3b01213f793f511c473968beca714066cadf3ab6915d9550fb7/kufu/smarthr-ui",
+      "createdAt": "2023-08-30T13:02:50.098Z"
+    },
+    {
+      "id": "87881fa3-34b4-4822-8552-8f5961cce4b8",
+      "url": "https://ui.shadcn.com/",
+      "tags": [
+        "ui",
+        "css",
+        "component",
+        "design",
+        "official",
+        "library"
+      ],
+      "title": "shadcn/ui",
+      "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+      "icon": "https://ui.shadcn.com/favicon.ico",
+      "host": "ui.shadcn.com",
+      "image": "https://ui.shadcn.com/og.jpg",
+      "createdAt": "2023-08-30T13:05:58.237Z"
+    },
+    {
+      "id": "c2dc415d-6ed0-490f-b482-1ac23c8876d4",
+      "url": "https://smarthr.design/",
+      "tags": [
+        "ui",
+        "design",
+        "documentations",
+        "company"
+      ],
+      "title": "SmartHR Design System",
+      "description": "SmartHR Design Systemは、だれでも・効率よく・迷わずにSmartHRらしい表現をするためのデザインシステムです。",
+      "icon": "https://smarthr.design/favicon.ico",
+      "host": "smarthr.design",
+      "image": "https://smarthr.design/images/ogp.png",
+      "createdAt": "2023-08-30T13:07:22.026Z"
+    },
+    {
+      "id": "79cd59e9-7caa-4d40-b927-ee3a11489437",
+      "url": "https://polaris.shopify.com/",
+      "tags": [
+        "ui",
+        "design",
+        "company"
+      ],
+      "title": "Shopify Polaris",
+      "description": "A starter kit for reimagining commerce.",
+      "icon": "https://polaris.shopify.com/images/favicon.png",
+      "host": "polaris.shopify.com",
+      "image": "https://polaris.shopify.com/og-images/home.png",
+      "createdAt": "2023-08-30T13:08:49.591Z"
+    },
+    {
+      "id": "33bb26d5-62a8-4775-bac4-8776785f37fb",
+      "url": "https://primer.style/design/",
+      "tags": [
+        "ui",
+        "design",
+        "company"
+      ],
+      "title": "Primer",
+      "description": "Principles, standards, and usage guidelines for designing GitHub interfaces.",
+      "icon": "https://primer.style/design/favicon-32x32.png?v=f3da5bc9ee21801506bcf83c84f79ae4",
+      "host": "primer.style",
+      "image": "https://user-images.githubusercontent.com/10384315/53922681-2f6d3100-402a-11e9-9719-5d1811c8110a.png",
+      "createdAt": "2023-08-30T13:10:05.459Z"
+    },
+    {
+      "id": "3083adec-3984-4f44-af1e-cdecef5d2923",
+      "url": "https://waku.gg/",
+      "tags": [
+        "react",
+        "framework",
+        "javascript"
+      ],
+      "title": "Waku website",
+      "description": "",
+      "icon": "",
+      "host": "waku.gg",
+      "image": "",
+      "createdAt": "2023-08-30T13:11:37.624Z"
+    },
+    {
+      "id": "638dc390-6978-4dec-a256-54f204b117e3",
+      "url": "https://www.oreilly.co.jp/books/9784873115894/",
+      "tags": [
+        "sql",
+        "database",
+        "pattern",
+        "book"
+      ],
+      "title": "O'Reilly Japan - SQLアンチパターン",
+      "description": "本書はDB設計やSQL記述の際に避けるべき事柄を1章で1つ、25個紹介する書籍です。リレーショナルデータベースを中心に据えたシステム開発には、様々な場面で陥りやすい失敗（アンチパターン）があります。本書はデータベース論理設計、データベース物理設計、クエリの記述、アプリケーション開発という4つのカテゴリに分け、それぞれの分野におけるアンチパターンを紹介し、失敗を避けるためのより良い方法を紹介します。複数の値を持つ属性や再帰的なツリー構造の格納から、小数値の丸めやNULLの扱いに起因する問題、全文検索やSQLインジェクション、MVCアーキテクチャなど、実践的かつ幅広いトピックを網羅します。日本語版では、MySQLのエキスパートとして著名な奥野幹也氏によるアンチパターンを収録。データベースに関わるすべてのエンジニア必携の一冊です。",
+      "icon": "https://www.oreilly.com/favicon.ico",
+      "host": "www.oreilly.co.jp",
+      "image": "https://www.oreilly.co.jp/books/images/picture978-4-87311-589-4.gif",
+      "createdAt": "2023-08-30T13:16:20.909Z"
+    },
+    {
+      "id": "1ea34c07-e8b1-4dd6-ba2f-63d7b07e1e07",
+      "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
+      "tags": [
+        "ui",
+        "design",
+        "html",
+        "web",
+        "blog"
+      ],
+      "title": "Why are hyperlinks blue?",
+      "description": "The internet has ingrained itself into every aspect of our lives, but there’s one aspect of the digital world that I bet you take for granted. Did you ev",
+      "icon": "https://blog.mozilla.org/wp-content/themes/foxtail/assets/images/favicons/favicon-32x32.png",
+      "host": "blog.mozilla.org",
+      "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/08/moz_explains_blue_links_blog_header-1080x720.jpg",
+      "createdAt": "2023-08-30T13:25:22.823Z"
     }
   ]
 }

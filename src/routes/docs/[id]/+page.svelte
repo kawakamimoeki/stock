@@ -32,7 +32,7 @@
 
 <div class="text-center p-4">
 	<a
-		class="bg-green-600 gap-2 inline-flex items-center py-2 px-5 hover:bg-green-700 text-white rounded font-bold"
+		class="gap-2 inline-flex items-center underline text-blue-500 font-bold"
 		href={data.doc.url}
 		target="_blank"
 	>
