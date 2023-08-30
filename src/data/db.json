@@ -1515,6 +1515,56 @@
       "host": "railstutorial.jp",
       "image": "https://railstutorial.jp/images/meta/facebook_default.jpg",
       "createdAt": "2023-08-30T07:46:50.781Z"
+    },
+    {
+      "id": "5da7311a-cde1-4c7f-9cda-5571722ed61e",
+      "url": "https://gorails.com/",
+      "tags": [
+        "rails",
+        "tutorial",
+        "beginners",
+        "learning"
+      ],
+      "title": "Learn Ruby on Rails | GoRails",
+      "description": "Screencast tutorials to help you learn Ruby on Rails, Javascript, Hotwire, Turbo, Stimulus.js, PostgreSQL, MySQL, Ubuntu, and more.",
+      "icon": "https://gorails.com/favicon-32x32.png",
+      "host": "gorails.com",
+      "image": "https://d2i2nj5el4wq1j.cloudfront.net/assets/courses/beginner-course-cf789b85328e4b8fac61cdf9ff8f69160dc290c48272b06e008c9081b024245c.png",
+      "createdAt": "2023-08-30T07:48:52.464Z"
+    },
+    {
+      "id": "7defb1c3-b437-4c43-82c1-533539c7a7ad",
+      "url": "https://react.dev/",
+      "tags": [
+        "react",
+        "tutorial",
+        "learning",
+        "beginners",
+        "guide"
+      ],
+      "title": "React",
+      "description": "The library for web and native user interfaces",
+      "icon": "",
+      "host": "react.dev",
+      "image": "https://react.dev/images/og-home.png",
+      "createdAt": "2023-08-30T07:50:03.430Z"
+    },
+    {
+      "id": "9e2838ad-7e40-4d69-a39d-51e3441c899d",
+      "url": "https://roadmap.sh/",
+      "tags": [
+        "development",
+        "learning",
+        "beginners",
+        "practive",
+        "practice"
+      ],
+      "title": "Developer Roadmaps - roadmap.sh",
+      "description": "Community driven roadmaps, articles and guides for developers to grow in their career.",
+      "icon": "https://roadmap.sh/manifest/icon32.png",
+      "host": "roadmap.sh",
+      "image": "https://roadmap.sh/images/og-img.png",
+      "createdAt": "2023-08-30T07:51:22.275Z"
     }
   ]
 }
