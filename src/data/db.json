@@ -1458,7 +1458,7 @@
       ],
       "title": "Deno, The next-generation JavaScript runtime",
       "description": "Deno features improved security, performance, and developer experience compared to its predecessor. It's a great time to upgrade your Node.js project to run on Deno.",
-      "icon": "https://deno.com/favicon.ico",
+      "icon": "",
       "host": "deno.com",
       "image": "https://deno.com/og/image.png",
       "createdAt": "2023-08-30T06:25:52.470Z"

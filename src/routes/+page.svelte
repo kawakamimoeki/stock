@@ -28,16 +28,19 @@
 	export let random = shuffle(data.docs).slice(0, 10);
 </script>
 
-<nav class="text-center">
-	<h2 class="text-xl font-bold mb-2">特集</h2>
-	<div class="flex gap-2 mb-8 font-bold">
-		<div class="grow" />
-		<a class="rounded hover:bg-gray-50 py-1 px-3" href="/tags/history">ウェブの歴史</a>
-		<a class="rounded hover:bg-gray-50 py-1 px-3" href="/tags/beginners">初学者向け</a>
-		<a class="rounded hover:bg-gray-50 py-1 px-3" href="/tags/development">開発全般</a>
-		<a class="rounded hover:bg-gray-50 py-1 px-3" href="/tags/javascript">Javascript</a>
-		<div class="grow" />
+<div class="p-4 text-center">
+	<h2 class="text-2xl font-bold mb-4">特集</h2>
+	<div class="overflow-x-scroll scrollbar-none mx-auto max-w-sm">
+		<div class="flex gap-3 font-bold overflow-visible flex-nowrap">
+			<a class="hover:text-gray-700 flex-none" href="/tags/history">ウェブの歴史</a>
+			<a class="hover:text-gray-700 flex-none" href="/tags/beginners">初学者向け</a>
+			<a class="hover:text-gray-700 flex-none" href="/tags/development">開発全般</a>
+			<a class="hover:text-gray-700 flex-none" href="/tags/javascript">Javascript</a>
+		</div>
 	</div>
+</div>
+
+<div class="p-4 text-center">
 	<div class=" py-2 px-3 rounded inline-flex space-x-2 items-center bg-gray-100">
 		<div class="i-lucide-search opacity-30" />
 		<input
@@ -48,7 +51,7 @@
 			on:input={search}
 		/>
 	</div>
-</nav>
+</div>
 
 {#if searchResult.length > 0}
 	<h2 class="p-4 font-bold text-4xl">"{q}"</h2>
