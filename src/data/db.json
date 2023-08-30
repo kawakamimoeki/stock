@@ -1088,6 +1088,22 @@
       "host": "speakerdeck.com",
       "image": "https://files.speakerdeck.com/presentations/652f76956a22465b8fd3477de4ba62f7/slide_0.jpg?26785761",
       "createdAt": "2023-08-30T00:17:25.624Z"
+    },
+    {
+      "id": "be6d9524-cf11-4c50-936e-749c78c6be4e",
+      "url": "https://docs.github.com/ja/copilot/getting-started-with-github-copilot",
+      "tags": [
+        "copilot",
+        "llm",
+        "tools",
+        "programming"
+      ],
+      "title": "GitHub Copilot の概要 - GitHub Docs",
+      "description": "ご利用の環境に拡張機能をインストールすることで、GitHub Copilot の使用を開始できます。",
+      "icon": "https://docs.github.com/assets/cb-803/images/site/favicon.svg",
+      "host": "docs.github.com",
+      "image": "https://github.githubassets.com/images/modules/open_graph/github-logo.png",
+      "createdAt": "2023-08-30T00:22:48.698Z"
     }
   ]
 }
