@@ -65,16 +65,16 @@
 		{/each}
 	</div>
 {:else}
-	<h2 class="p-4 font-bold text-4xl">Latest</h2>
+	<h2 class="p-4 font-bold text-4xl">Random</h2>
 	<div class="p-4">
-		{#each data.latest as doc}
+		{#each random as doc}
 			<DocCard {doc} tags={data.tags} />
 		{/each}
 	</div>
 
-	<h2 class="p-4 font-bold text-4xl">Random</h2>
+	<h2 class="p-4 font-bold text-4xl">Latest</h2>
 	<div class="p-4">
-		{#each random as doc}
+		{#each data.latest as doc}
 			<DocCard {doc} tags={data.tags} />
 		{/each}
 	</div>
