@@ -437,6 +437,12 @@
       "name": "学習",
       "icon": false,
       "createdAt": "2023-08-30T00:31:28.436Z"
+    },
+    {
+      "slug": "code-review",
+      "name": "コードレビュー",
+      "icon": false,
+      "createdAt": "2023-08-30T00:42:23.121Z"
     }
   ],
   "docs": [
@@ -1191,6 +1197,23 @@
       "host": "web.dev",
       "image": "https://web-dev.imgix.net/image/VbsHyyQopiec0718rMq2kTE1hke2/03dCg7PsCbcwblqRHYMB.png?auto=format&fit=max&w=1200&fm=auto",
       "createdAt": "2023-08-30T00:31:28.436Z"
+    },
+    {
+      "id": "6159becc-057f-4f28-8fbe-e4bd0a315c5a",
+      "url": "https://fujiharuka.github.io/google-eng-practices-ja/",
+      "tags": [
+        "documentation",
+        "google",
+        "development",
+        "github",
+        "code-review"
+      ],
+      "title": "Google Engineering Practices Documentation (日本語訳) | google-eng-practices-ja",
+      "description": "Google’s Engineering Practices documentation 日本語訳",
+      "icon": "",
+      "host": "fujiharuka.github.io",
+      "image": "",
+      "createdAt": "2023-08-30T00:42:23.121Z"
     }
   ]
 }
