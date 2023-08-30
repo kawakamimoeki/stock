@@ -1400,11 +1400,11 @@
         "edge",
         "documentations"
       ],
-      "title": "Just a moment...",
-      "description": "",
-      "icon": "",
+      "title": "ラーニングセンターホーム | Cloudflare",
+      "description": "サイバーセキュリティ、Webパフォーマンス、サーバーレスアーキテクチャなど技術的なトピックについて、Cloudflareが提供する教育リソース。インターネットの仕組みを学びましょう。",
+      "icon": "https://www.cloudflare.com/favicon.ico",
       "host": "www.cloudflare.com",
-      "image": "",
+      "image": "https://cf-assets.www.cloudflare.com/slt3lc6tev37/53qCYhQbir5WtIU0VDWESo/954a48bfb17f429acf469e5f14345d83/unnamed-3.png",
       "createdAt": "2023-08-30T06:11:57.993Z"
     },
     {
