@@ -301,14 +301,14 @@
       "createdAt": "2023-08-29T14:14:40.152Z"
     },
     {
-      "slug": "beginner",
+      "slug": "beginners",
       "name": "初学者",
       "icon": false,
       "createdAt": "2023-08-29T14:17:54.984Z"
     },
     {
-      "slug": "service",
-      "name": "サービス",
+      "slug": "tools",
+      "name": "ツール",
       "icon": false,
       "createdAt": "2023-08-29T14:17:54.984Z"
     },
@@ -815,7 +815,8 @@
         "web",
         "unix",
         "sql",
-        "podcast"
+        "podcast",
+        "history"
       ],
       "title": "28. 技術選定の審美眼(1) w/ twada | fukabori.fm",
       "description": "twadaさんをゲストに、技術選定の審美眼およびUnix、REST/Web、RDMBS/SQLの共通点について語っていただいたエピソードです。",
@@ -831,7 +832,8 @@
         "web",
         "rails",
         "java",
-        "podcast"
+        "podcast",
+        "history"
       ],
       "title": "29. 技術選定の審美眼(2) w/ twada | fukabori.fm",
       "description": "twadaさんをゲストに、前回に引き続き技術選定の審美眼、集中と分散の螺旋について語っていただいたエピソードです。",
@@ -844,8 +846,8 @@
       "id": "13e1c68b-063c-4946-992a-7ea37b40e8b6",
       "url": "https://prog-8.com/",
       "tags": [
-        "beginner",
-        "service"
+        "beginners",
+        "tools"
       ],
       "title": "Progate\n | プログラミングの入門なら基礎から学べるProgate[プロゲート]",
       "description": "Progateはオンラインでプログラミングを学べるサービスです。プログラミングを学んでWEBアプリケーションを作ろう。",
@@ -858,7 +860,7 @@
       "id": "cc4fc0bf-7f2a-48e3-85f3-c7e861cc5acf",
       "url": "https://resend.com/",
       "tags": [
-        "service",
+        "tools",
         "saas",
         "email"
       ],
@@ -923,7 +925,7 @@
       "tags": [
         "git",
         "web",
-        "beginner"
+        "beginners"
       ],
       "title": "Learn Git Branching",
       "description": "An interactive Git visualization tool to educate and challenge!",
@@ -937,7 +939,7 @@
       "url": "https://shields.io/",
       "tags": [
         "github",
-        "service"
+        "tools"
       ],
       "title": "Shields.io | Shields.io",
       "description": "Concise, consistent, and legible badges",

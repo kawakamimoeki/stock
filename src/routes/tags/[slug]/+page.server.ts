@@ -19,8 +19,9 @@ export const load: PageServerLoad = async ({ params }) => {
 	}
 
 	const result = DB.docs.filter((doc) => doc.tags.includes(tag.slug));
-	const tags = compact(
+	const allTags = compact(
 		uniq(flatten(result.map((d) => d.tags))).map((tag) => DB.tags.find((t) => t.slug === tag))
-	).filter((t) => t.slug !== tag.slug);
-	return { docs: result, tags, tag };
+	);
+	const relatedTags = allTags.filter((t) => t.slug !== tag.slug);
+	return { docs: result, relatedTags, tag, allTags };
 };

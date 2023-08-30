@@ -24,6 +24,15 @@
 </script>
 
 <nav class="text-center">
+	<h2 class="text-xl font-bold mb-2">特集</h2>
+	<div class="flex gap-4 mb-8 font-bold">
+		<div class="grow" />
+		<a href="/tags/history">ウェブの歴史</a>
+		<a href="/tags/beginners">初学者向け</a>
+		<a href="/tags/tools">ツール</a>
+		<a href="/tags/javascript">Javascript</a>
+		<div class="grow" />
+	</div>
 	<div class=" py-2 px-3 rounded inline-flex space-x-2 items-center bg-gray-100">
 		<div class="i-lucide-search opacity-30" />
 		<input

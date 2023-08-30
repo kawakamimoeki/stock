@@ -18,13 +18,13 @@
 </div>
 
 <div class="flex gap-2 items-center flex-wrap p-4">
-	{#each data.tags as tag}
+	{#each data.relatedTags as tag}
 		<Tagcard {tag} />
 	{/each}
 </div>
 
 <div class="p-4">
 	{#each data.docs as doc}
-		<DocCard {doc} tags={data.tags} />
+		<DocCard {doc} tags={data.allTags} />
 	{/each}
 </div>
