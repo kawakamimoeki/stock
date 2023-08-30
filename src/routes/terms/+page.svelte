@@ -1,5 +1,5 @@
 <div class="p-4">
-	<div class="p-8 bg-gray-50 rounded-lg max-w-xl mx-auto">
+	<div class="p-4 bg-gray-50 rounded-lg max-w-xl mx-auto">
 		<h1 class="text-2xl font-bold mb-4">利用規約</h1>
 
 		<p class="mb-4">
