@@ -587,6 +587,12 @@
       "name": "デザイン",
       "icon": false,
       "createdAt": "2023-08-30T13:02:21.936Z"
+    },
+    {
+      "slug": "library",
+      "name": "ライブラリ",
+      "icon": false,
+      "createdAt": "2023-08-30T13:05:58.237Z"
     }
   ],
   "docs": [
@@ -1989,6 +1995,24 @@
       "host": "github.com",
       "image": "https://opengraph.githubassets.com/08471cc53c5ea3b01213f793f511c473968beca714066cadf3ab6915d9550fb7/kufu/smarthr-ui",
       "createdAt": "2023-08-30T13:02:50.098Z"
+    },
+    {
+      "id": "87881fa3-34b4-4822-8552-8f5961cce4b8",
+      "url": "https://ui.shadcn.com/",
+      "tags": [
+        "ui",
+        "css",
+        "component",
+        "design",
+        "official",
+        "library"
+      ],
+      "title": "shadcn/ui",
+      "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+      "icon": "https://ui.shadcn.com/favicon.ico",
+      "host": "ui.shadcn.com",
+      "image": "https://ui.shadcn.com/og.jpg",
+      "createdAt": "2023-08-30T13:05:58.237Z"
     }
   ]
 }
