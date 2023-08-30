@@ -521,6 +521,12 @@
       "name": "Shell",
       "icon": false,
       "createdAt": "2023-08-30T06:24:38.903Z"
+    },
+    {
+      "slug": "tutorial",
+      "name": "チュートリアル",
+      "icon": false,
+      "createdAt": "2023-08-30T07:46:50.783Z"
     }
   ],
   "docs": [
@@ -1479,6 +1485,36 @@
       "host": "bun.sh",
       "image": "",
       "createdAt": "2023-08-30T06:26:15.967Z"
+    },
+    {
+      "id": "fb17feb7-8046-44f8-bd2e-4f364908d982",
+      "url": "https://cssdb.org/",
+      "tags": [
+        "css",
+        "standard"
+      ],
+      "title": "cssdb - CSS Database",
+      "description": "A comprehensive list of CSS features and their positions in the process of becoming implemented web standards.",
+      "icon": "https://cssdb.org/favicon.ico",
+      "host": "cssdb.org",
+      "image": "https://cssdb.org/images/cssdb.jpg",
+      "createdAt": "2023-08-30T07:41:34.022Z"
+    },
+    {
+      "id": "5fde32c4-eff5-470b-b068-2252ce68b562",
+      "url": "https://railstutorial.jp/",
+      "tags": [
+        "rails",
+        "ruby",
+        "tutorial",
+        "beginners"
+      ],
+      "title": "Ruby on Rails チュートリアル：プロダクト開発の０→１を学ぼう",
+      "description": "SNS開発やWebサイト制作が学べる大型チュートリアル。作りながら学ぶのが特徴で、電子書籍や解説動画、質問対応、社員研修、教材利用にも対応しています。",
+      "icon": "https://railstutorial.jp/images/favicons/android-icon-192x192.png",
+      "host": "railstutorial.jp",
+      "image": "https://railstutorial.jp/images/meta/facebook_default.jpg",
+      "createdAt": "2023-08-30T07:46:50.781Z"
     }
   ]
 }
