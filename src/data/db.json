@@ -401,6 +401,12 @@
       "name": "ChatGPT",
       "icon": true,
       "createdAt": "2023-08-30T00:17:25.624Z"
+    },
+    {
+      "slug": "flash",
+      "name": "Flash",
+      "icon": false,
+      "createdAt": "2023-08-30T00:26:09.951Z"
     }
   ],
   "docs": [
@@ -1104,6 +1110,22 @@
       "host": "docs.github.com",
       "image": "https://github.githubassets.com/images/modules/open_graph/github-logo.png",
       "createdAt": "2023-08-30T00:22:48.698Z"
+    },
+    {
+      "id": "47f8ebda-b202-431d-b0af-55a18c7921a0",
+      "url": "https://blog.kaspersky.co.jp/life-and-death-of-adobe-flash/32775/",
+      "tags": [
+        "flash",
+        "blog",
+        "web",
+        "history"
+      ],
+      "title": "Flashの歴史 | カスペルスキー公式ブログ",
+      "description": "オンラインコンテンツで一世を風靡したAdobe Flash。長い間数々の脆弱性に悩まされながら廃止に至った経緯を振り返ります。",
+      "icon": "https://media.kasperskydaily.com/wp-content/uploads/sites/98/2019/06/04214841/cropped-k-favicon-new-32x32.png",
+      "host": "blog.kaspersky.co.jp",
+      "image": "https://media.kasperskydaily.com/wp-content/uploads/sites/98/2022/11/04162222/life-and-death-of-adobe-flash-Featured.jpg",
+      "createdAt": "2023-08-30T00:26:09.951Z"
     }
   ]
 }
