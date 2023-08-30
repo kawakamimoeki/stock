@@ -29,7 +29,7 @@
 		<div class="grow" />
 		<a href="/tags/history">ウェブの歴史</a>
 		<a href="/tags/beginners">初学者向け</a>
-		<a href="/tags/tools">ツール</a>
+		<a href="/tags/development">開発全般</a>
 		<a href="/tags/javascript">Javascript</a>
 		<div class="grow" />
 	</div>
