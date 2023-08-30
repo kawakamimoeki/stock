@@ -1828,6 +1828,22 @@
       "host": "zenn.dev",
       "image": "https://res.cloudinary.com/zenn/image/upload/s--KW_rPyUv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:node_modules%25E3%2581%25AE%25E5%2595%258F%25E9%25A1%258C%25E7%2582%25B9%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520npm%252C%2520yarn%25E3%2581%25A8pnpm%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Saggggo%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiODM5YjZmYzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
       "createdAt": "2023-08-30T08:26:23.281Z"
+    },
+    {
+      "id": "e3db03e6-e6af-4319-8059-fdf4a41a7a56",
+      "url": "https://developers.google.com/search/docs/appearance/core-web-vitals?hl=ja",
+      "tags": [
+        "seo",
+        "performance",
+        "google",
+        "web"
+      ],
+      "title": "Core Web Vitals と Google 検索の検索結果について | Google 検索セントラル  |  ドキュメント  |  Google for Developers",
+      "description": "Core Web Vitals は、実際のユーザー エクスペリエンスを測定する一連の指標です。Google 検索と Core Web Vitals の詳細をご確認ください。",
+      "icon": "https://www.gstatic.com/devrel-devsite/prod/vbad4fd6eb290ad214822e7a397f826be8dbcc36ca2a922ba48f41fb14286829c/developers/images/favicon-new.png",
+      "host": "developers.google.com",
+      "image": "https://developers.google.com/static/search/images/home-social-share-lockup.jpg?hl=ja",
+      "createdAt": "2023-08-30T09:52:59.004Z"
     }
   ]
 }
