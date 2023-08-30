@@ -527,6 +527,12 @@
       "name": "チュートリアル",
       "icon": false,
       "createdAt": "2023-08-30T07:46:50.783Z"
+    },
+    {
+      "slug": "seo",
+      "name": "SEO",
+      "icon": false,
+      "createdAt": "2023-08-30T07:52:39.017Z"
     }
   ],
   "docs": [
@@ -1565,6 +1571,96 @@
       "host": "roadmap.sh",
       "image": "https://roadmap.sh/images/og-img.png",
       "createdAt": "2023-08-30T07:51:22.275Z"
+    },
+    {
+      "id": "df8dbaf2-d614-494e-9f8e-642e6e7c9462",
+      "url": "https://developers.google.com/search/docs?hl=ja",
+      "tags": [
+        "seo",
+        "web",
+        "guide"
+      ],
+      "title": "Google 検索に関するドキュメント | Google 検索セントラル  |  Google for Developers",
+      "description": "Google 検索に関するドキュメントをまとめて確認できます。Google 公式の SEO に関する情報を確認し、サイトの最適化にお役立てください。",
+      "icon": "https://www.gstatic.com/devrel-devsite/prod/vbad4fd6eb290ad214822e7a397f826be8dbcc36ca2a922ba48f41fb14286829c/developers/images/favicon-new.png",
+      "host": "developers.google.com",
+      "image": "https://developers.google.com/static/search/images/home-social-share-lockup.jpg?hl=ja",
+      "createdAt": "2023-08-30T07:52:39.017Z"
+    },
+    {
+      "id": "1e95c6dc-0355-4c84-a7ee-69da4dd79ba7",
+      "url": "https://ja.wix.com/seo/learn",
+      "tags": [
+        "seo",
+        "web",
+        "guide",
+        "learning"
+      ],
+      "title": "SEO の知識をさらに深めよう | Wix SEO Hub",
+      "description": "アクセス数アップのヒントからリピーターとコンバージョンの獲得まで、気になる情報をすばやくチェック。オンラインビジネスに欠かせない SEO の仕組みを学んで、サイトを通じて達成したい目標をスマートに設定しましょう。",
+      "icon": "https://www.wix.com/favicon.ico",
+      "host": "ja.wix.com",
+      "image": "https://static.wixstatic.com/media/311dce_13e342ed8fc849a8beeaa8add9e8b8d6~mv2.jpg/v1/fill/w_1200,h_628,al_c/311dce_13e342ed8fc849a8beeaa8add9e8b8d6~mv2.jpg",
+      "createdAt": "2023-08-30T07:53:40.619Z"
+    },
+    {
+      "id": "30d35637-3390-4511-a477-5d40deacde42",
+      "url": "https://ja.javascript.info/",
+      "tags": [
+        "javascript",
+        "guide",
+        "documentations",
+        "tutorial"
+      ],
+      "title": "現代の JavaScript チュートリアル",
+      "description": "現代の JavaScript チュートリアル: クロージャ、ドキュメント、イベント、オブジェクト指向プログラミングなどを含む、サンプルとタスクを使ったシンプルで詳細な説明です。",
+      "icon": "https://ja.javascript.info/img/favicon/favicon.png",
+      "host": "ja.javascript.info",
+      "image": "https://ja.javascript.info/img/site_preview_en_1200x630.png",
+      "createdAt": "2023-08-30T07:55:39.207Z"
+    },
+    {
+      "id": "df850cea-3e14-440b-b547-c0461b70686a",
+      "url": "https://svelte.jp/blog/frameworks-without-the-framework",
+      "tags": [
+        "svelte",
+        "javascript",
+        "framework",
+        "blog"
+      ],
+      "title": "フレームワークの無いフレームワーク: なぜもっと早く思いつかなかったのか",
+      "description": "",
+      "icon": "https://svelte.jp/favicon.png",
+      "host": "svelte.jp",
+      "image": "",
+      "createdAt": "2023-08-30T07:56:55.943Z"
+    },
+    {
+      "id": "56116f11-d177-4aae-a7c7-dea2791fece0",
+      "url": "https://qiita.com/kobanyan/items/126512ec3e8d76c538b3",
+      "tags": [],
+      "title": "Common mistakes with React Testing Library の和訳 - Qiita",
+      "description": "本記事は Kent C. Dodds氏による Common mistakes with React Testing Library の和訳です。React Testing Library のよくあ…",
+      "icon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico",
+      "host": "qiita.com",
+      "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9Q29tbW9uJTIwbWlzdGFrZXMlMjB3aXRoJTIwUmVhY3QlMjBUZXN0aW5nJTIwTGlicmFyeSUyMCVFMyU4MSVBRSVFNSU5MiU4QyVFOCVBOCVCMyZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9Y2I2MDQ4N2I1YzY1MzJlYjg3MGNmMGMzYWRhMDU0YWY&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwa29iYW55YW4mdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWE3ODBhYWQxYTZlNjNkYTU1OTk0YWQxOWQ0NTA1ODYy&blend-x=142&blend-y=491&blend-mode=normal&s=86a82d587b49cb634c60707ccf481d07",
+      "createdAt": "2023-08-30T07:58:25.214Z"
+    },
+    {
+      "id": "08a1fa14-8b19-4612-9d7b-7dbc9788826b",
+      "url": "https://github.com/sindresorhus/awesome",
+      "tags": [
+        "github",
+        "tools",
+        "learning",
+        "practice"
+      ],
+      "title": "GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics",
+      "description": "😎 Awesome lists about all kinds of interesting topics - GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "host": "github.com",
+      "image": "https://repository-images.githubusercontent.com/21737465/46445f80-a5ae-11ea-921f-c39aefbcdcac",
+      "createdAt": "2023-08-30T08:01:54.794Z"
     }
   ]
 }
