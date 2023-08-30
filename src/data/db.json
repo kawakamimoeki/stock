@@ -2013,6 +2013,21 @@
       "host": "ui.shadcn.com",
       "image": "https://ui.shadcn.com/og.jpg",
       "createdAt": "2023-08-30T13:05:58.237Z"
+    },
+    {
+      "id": "c2dc415d-6ed0-490f-b482-1ac23c8876d4",
+      "url": "https://smarthr.design/",
+      "tags": [
+        "ui",
+        "design",
+        "documentations"
+      ],
+      "title": "SmartHR Design System",
+      "description": "SmartHR Design Systemは、だれでも・効率よく・迷わずにSmartHRらしい表現をするためのデザインシステムです。",
+      "icon": "https://smarthr.design/favicon.ico",
+      "host": "smarthr.design",
+      "image": "https://smarthr.design/images/ogp.png",
+      "createdAt": "2023-08-30T13:07:22.026Z"
     }
   ]
 }
