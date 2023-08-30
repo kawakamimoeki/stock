@@ -13,29 +13,13 @@
 </p>
 <br/>
 
-## Purpose
+## 目的
 
-- Share the latest information on web development
-- Provide learning resources for newcomers
-- Accumulate historically valuable and useful resources
+- ウェブ開発の最新情報をシェアする
+- 初学者のための学習リソースを提供する
+- ウェブ業界の歴史的な資料を蓄積する
 
-## Add document to database
-
-```
-npx stoc doc https://example.com/ --tags tag1,tag2
-```
-
-If the document already exists, the tags are merged.
-
-## Add tag to database
-
-```
-npx stoc tag example-tag "Example Tag" --icon /path/to/image
-```
-
-If the tag already exists, it is updated.
-
-## Development
+## 貢献する準備
 
 ```
 gh repo clone moekidev/stoc.dev
@@ -49,6 +33,24 @@ cd stoc.dev
 npm i
 ```
 
+## ドキュメントを追加する
+
+```
+npx stoc doc https://example.com/ --tags tag1,tag2
+```
+
+もしドキュメントが存在していたらタグをマージします。
+
+## タグを追加する
+
+```
+npx stoc tag example-tag "Example Tag" --icon /path/to/image
+```
+
+もしタグが存在していたら更新されます。
+
+## サーバー
+
 ```
 npm run dev
 ```
@@ -57,14 +59,15 @@ npm run dev
 
 [![Star History Chart](https://api.star-history.com/svg?repos=moekidev/stoc.dev&type=Date)](https://star-history.com/#moekidev/stoc.dev)
 
-## Contribution
+## コントリビュート
 
-Bug reports and pull requests should be sent to https://github.com/moekidev/stoc.dev on GitHub. This project aims to be a safe and welcoming space for collaboration, and contributors are expected to abide by the [Code of Conduct](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md).
+バグ報告やPull-reqはGitHubの https://github.com/moekidev/stoc.dev まで。
+このプロジェクトは安全で歓迎される共同作業の場を目指しており、貢献者は[行動規範](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md)を遵守することが期待されています。
 
 ## License
 
-This application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+このアプリケーションは、[MITライセンス](https://opensource.org/licenses/MIT)の条件の下でオープンソースとして利用可能です
 
-## Code of Conduct
+## 行動規範
 
-All people interacting with the stoc.dev project codebase, issue tracker, chat rooms, and mailing lists are expected to follow the [Code of Conduct](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md).
+stoc.dev プロジェクトに関わるすべての人は、[行動規範](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md)に従うことが期待されています。
