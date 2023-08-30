@@ -1239,6 +1239,22 @@
       "host": "basecamp.com",
       "image": "",
       "createdAt": "2023-08-30T00:45:39.843Z"
+    },
+    {
+      "id": "f691cc11-aadc-48e5-8730-55caab341d02",
+      "url": "https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/#introduction",
+      "tags": [
+        "team",
+        "development",
+        "practice",
+        "guide"
+      ],
+      "title": "re:Work - Guide: Understand team effectiveness",
+      "description": "Fostering psychological safety can help teams perform and innovate, Google found while trying to understand what makes team great.",
+      "icon": "https://rework.withgoogle.com/static/a25cc87f/public/images/favicon.ico",
+      "host": "rework.withgoogle.com",
+      "image": "https://rework.withgoogle.com/static/a25cc87f/public/images/social-share-image.png",
+      "createdAt": "2023-08-30T00:47:21.364Z"
     }
   ]
 }
