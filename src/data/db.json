@@ -443,6 +443,12 @@
       "name": "コードレビュー",
       "icon": false,
       "createdAt": "2023-08-30T00:42:23.121Z"
+    },
+    {
+      "slug": "practice",
+      "name": "プラクティス",
+      "icon": false,
+      "createdAt": "2023-08-30T00:45:39.844Z"
     }
   ],
   "docs": [
@@ -1106,7 +1112,8 @@
         "copilot",
         "documentation",
         "programming",
-        "llm"
+        "llm",
+        "practice"
       ],
       "title": "ようこそ - GitHub Copilot - Patterns & Exercises",
       "description": "GitHub Copilot Patterns & Exercises",
@@ -1189,7 +1196,8 @@
         "beginners",
         "learning",
         "web",
-        "google"
+        "google",
+        "practice"
       ],
       "title": "Learn Accessibility",
       "description": "An evergreen accessibility course and reference to level up your web development.",
@@ -1206,7 +1214,8 @@
         "google",
         "development",
         "github",
-        "code-review"
+        "code-review",
+        "practice"
       ],
       "title": "Google Engineering Practices Documentation (日本語訳) | google-eng-practices-ja",
       "description": "Google’s Engineering Practices documentation 日本語訳",
@@ -1214,6 +1223,22 @@
       "host": "fujiharuka.github.io",
       "image": "",
       "createdAt": "2023-08-30T00:42:23.121Z"
+    },
+    {
+      "id": "ffc733c0-f93a-422f-86c0-315540e10037",
+      "url": "https://basecamp.com/gettingreal",
+      "tags": [
+        "development",
+        "team",
+        "softskill",
+        "practice"
+      ],
+      "title": "Getting Real",
+      "description": "The smarter, faster, easier way to build a successful web application",
+      "icon": "https://basecamp.com/assets/general/favicon-2cea08419acd6169db678ef481a55ef6eecf4fb611d12830e03cf3009d0c4e1a.ico",
+      "host": "basecamp.com",
+      "image": "",
+      "createdAt": "2023-08-30T00:45:39.843Z"
     }
   ]
 }
