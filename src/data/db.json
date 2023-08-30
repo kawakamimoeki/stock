@@ -395,6 +395,12 @@
       "name": "LLM",
       "icon": false,
       "createdAt": "2023-08-30T00:15:35.357Z"
+    },
+    {
+      "slug": "chatgpt",
+      "name": "ChatGPT",
+      "icon": true,
+      "createdAt": "2023-08-30T00:17:25.624Z"
     }
   ],
   "docs": [
@@ -1066,6 +1072,22 @@
       "host": "www.ai-native.dev",
       "image": "",
       "createdAt": "2023-08-30T00:13:11.076Z"
+    },
+    {
+      "id": "25c3cdef-5e6d-4882-9ac5-93055d684660",
+      "url": "https://speakerdeck.com/dahatake/chatgpt-nochong-ji-code-interpreter-gachu-tahou-baziyon-61deaacb-ea80-441e-a115-d9eeb4eea14e",
+      "tags": [
+        "llm",
+        "chatgpt",
+        "history",
+        "slide"
+      ],
+      "title": "ChatGPT の衝撃 - Code Interpreter が出た後バージョン- - Speaker Deck",
+      "description": "企業・組織に属している方向けの ChatGPT の社会・ビジネスへの影響を考えるお話です。\n佐賀県 企業立地課主催のITセミナーでお話させていただきます。\n\n- とある人の、変わってしまった日常の一部\n- なぜ?何が? ChatGPT で変わるのか?\n- Plugin の可能性\n- Code Interpreter の可能性",
+      "icon": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png",
+      "host": "speakerdeck.com",
+      "image": "https://files.speakerdeck.com/presentations/652f76956a22465b8fd3477de4ba62f7/slide_0.jpg?26785761",
+      "createdAt": "2023-08-30T00:17:25.624Z"
     }
   ]
 }
