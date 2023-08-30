@@ -371,6 +371,24 @@
       "name": "標準規格",
       "icon": false,
       "createdAt": "2023-08-29T23:56:25.698Z"
+    },
+    {
+      "slug": "copilot",
+      "name": "GitHub Copilot",
+      "icon": false,
+      "createdAt": "2023-08-30T00:13:11.076Z"
+    },
+    {
+      "slug": "documentation",
+      "name": "ドキュメント",
+      "icon": false,
+      "createdAt": "2023-08-30T00:13:11.076Z"
+    },
+    {
+      "slug": "programming",
+      "name": "プログラミング",
+      "icon": false,
+      "createdAt": "2023-08-30T00:13:11.076Z"
     }
   ],
   "docs": [
@@ -847,7 +865,8 @@
       "url": "https://prog-8.com/",
       "tags": [
         "beginners",
-        "tools"
+        "tools",
+        "programming"
       ],
       "title": "Progate\n | プログラミングの入門なら基礎から学べるProgate[プロゲート]",
       "description": "Progateはオンラインでプログラミングを学べるサービスです。プログラミングを学んでWEBアプリケーションを作ろう。",
@@ -1025,6 +1044,21 @@
       "host": "www.tohoho-web.com",
       "image": "",
       "createdAt": "2023-08-30T00:11:05.353Z"
+    },
+    {
+      "id": "de032169-e478-4138-a1ce-bdb0b320e998",
+      "url": "https://www.ai-native.dev/docs/v/ja/",
+      "tags": [
+        "copilot",
+        "documentation",
+        "programming"
+      ],
+      "title": "ようこそ - GitHub Copilot - Patterns & Exercises",
+      "description": "GitHub Copilot Patterns & Exercises",
+      "icon": "https://2654916179-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/collections%2FWA3Af08rA8UwEdFCbivw%2Ficon%2FJZKv84UCQ2KmS7MQ2RS7%2F00%20(2).png?alt=media&token=d7f4493b-ec36-4b25-a631-b55223d09f36",
+      "host": "www.ai-native.dev",
+      "image": "",
+      "createdAt": "2023-08-30T00:13:11.076Z"
     }
   ]
 }
