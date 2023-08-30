@@ -461,6 +461,12 @@
       "name": "アクセス解析",
       "icon": false,
       "createdAt": "2023-08-30T05:53:03.410Z"
+    },
+    {
+      "slug": "architecture",
+      "name": "アーキテクチャ",
+      "icon": false,
+      "createdAt": "2023-08-30T05:54:49.888Z"
     }
   ],
   "docs": [
@@ -1297,6 +1303,22 @@
       "host": "plausible.io",
       "image": "https://plausible.io/assets/images/plausible_promo.jpg",
       "createdAt": "2023-08-30T05:53:03.409Z"
+    },
+    {
+      "id": "f22cc049-b5fd-4bc2-8d3c-1778f40bb24d",
+      "url": "https://qiita.com/hirokidaichi/items/a746062917595619720b",
+      "tags": [
+        "development",
+        "architecture",
+        "blog",
+        "qiita"
+      ],
+      "title": "技術選定/アーキテクチャ設計で後悔しないためのガイドライン - Qiita",
+      "description": "##はじめに本稿は、ソフトウェア開発を進める際に直面する様々な技術的な意思決定やライブラリ・フレームワーク・XaaS等を選択し正しく活用していくのかについての考え方をサポートすることを目的としてい…",
+      "icon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico",
+      "host": "qiita.com",
+      "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUU2JThBJTgwJUU4JUExJTkzJUU5JTgxJUI4JUU1JUFFJTlBJTJGJUUzJTgyJUEyJUUzJTgzJUJDJUUzJTgyJUFEJUUzJTgzJTg2JUUzJTgyJUFGJUUzJTgzJTgxJUUzJTgzJUEzJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgxJUE3JUU1JUJFJThDJUU2JTgyJTk0JUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFFJUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJUIzJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lOWVjNGFmZDVhOTkwMDVlOWM1NGVjNzZlZDYxNzZmOA&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwaGlyb2tpZGFpY2hpJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz00MmViZmQ0YmEwMzUxYTZmMGQyZjFhNWVhNzIyYjI2MA&blend-x=142&blend-y=491&blend-mode=normal&s=d38481777b05a38df8546a9f4346f86f",
+      "createdAt": "2023-08-30T05:54:49.887Z"
     }
   ]
 }
