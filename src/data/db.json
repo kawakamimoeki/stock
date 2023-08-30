@@ -2103,6 +2103,23 @@
       "host": "www.oreilly.co.jp",
       "image": "https://www.oreilly.co.jp/books/images/picture978-4-87311-589-4.gif",
       "createdAt": "2023-08-30T13:16:20.909Z"
+    },
+    {
+      "id": "1ea34c07-e8b1-4dd6-ba2f-63d7b07e1e07",
+      "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
+      "tags": [
+        "ui",
+        "design",
+        "html",
+        "web",
+        "blog"
+      ],
+      "title": "Why are hyperlinks blue?",
+      "description": "The internet has ingrained itself into every aspect of our lives, but there’s one aspect of the digital world that I bet you take for granted. Did you ev",
+      "icon": "https://blog.mozilla.org/wp-content/themes/foxtail/assets/images/favicons/favicon-32x32.png",
+      "host": "blog.mozilla.org",
+      "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/08/moz_explains_blue_links_blog_header-1080x720.jpg",
+      "createdAt": "2023-08-30T13:25:22.823Z"
     }
   ]
 }
