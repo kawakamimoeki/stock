@@ -5,11 +5,11 @@
 </p>
 <br/>
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/moekidev/stoc.dev" />
-<img src="https://img.shields.io/github/last-commit/moekidev/stoc.dev" />
-<img src="https://img.shields.io/github/stars/moekidev/stoc.dev" />
-<img src="https://img.shields.io/github/license/moekidev/stoc.dev" />
-<img src="https://img.shields.io/discord/1146215375344779345" />
+  <img src="https://img.shields.io/github/languages/top/moekidev/stoc.dev" />
+  <img src="https://img.shields.io/github/last-commit/moekidev/stoc.dev" />
+  <img src="https://img.shields.io/github/stars/moekidev/stoc.dev" />
+  <img src="https://img.shields.io/github/license/moekidev/stoc.dev" />
+  <img src="https://img.shields.io/discord/1146215375344779345" />
 </p>
 <br/>
 
