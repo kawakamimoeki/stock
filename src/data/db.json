@@ -593,6 +593,12 @@
       "name": "ライブラリ",
       "icon": false,
       "createdAt": "2023-08-30T13:05:58.237Z"
+    },
+    {
+      "slug": "company",
+      "name": "企業",
+      "icon": false,
+      "createdAt": "2023-08-30T13:08:49.591Z"
     }
   ],
   "docs": [
@@ -1987,7 +1993,8 @@
       "tags": [
         "ui",
         "storybook",
-        "design"
+        "design",
+        "company"
       ],
       "title": "GitHub - kufu/smarthr-ui: React components for creating SmartHR applications.",
       "description": "React components for creating SmartHR applications. - GitHub - kufu/smarthr-ui: React components for creating SmartHR applications.",
@@ -2020,7 +2027,8 @@
       "tags": [
         "ui",
         "design",
-        "documentations"
+        "documentations",
+        "company"
       ],
       "title": "SmartHR Design System",
       "description": "SmartHR Design Systemは、だれでも・効率よく・迷わずにSmartHRらしい表現をするためのデザインシステムです。",
@@ -2028,6 +2036,21 @@
       "host": "smarthr.design",
       "image": "https://smarthr.design/images/ogp.png",
       "createdAt": "2023-08-30T13:07:22.026Z"
+    },
+    {
+      "id": "79cd59e9-7caa-4d40-b927-ee3a11489437",
+      "url": "https://polaris.shopify.com/",
+      "tags": [
+        "ui",
+        "design",
+        "company"
+      ],
+      "title": "Shopify Polaris",
+      "description": "A starter kit for reimagining commerce.",
+      "icon": "https://polaris.shopify.com/images/favicon.png",
+      "host": "polaris.shopify.com",
+      "image": "/og-images/home.png",
+      "createdAt": "2023-08-30T13:08:49.591Z"
     }
   ]
 }
