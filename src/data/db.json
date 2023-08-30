@@ -451,10 +451,16 @@
       "createdAt": "2023-08-30T00:45:39.844Z"
     },
     {
-      "slug": "service",
+      "slug": "services",
       "name": "サービス",
       "icon": false,
       "createdAt": "2023-08-30T00:49:11.116Z"
+    },
+    {
+      "slug": "analytics",
+      "name": "アクセス解析",
+      "icon": false,
+      "createdAt": "2023-08-30T05:53:03.410Z"
     }
   ],
   "docs": [
@@ -1266,7 +1272,7 @@
       "id": "1fb00d96-c5b7-427d-8ea3-dc6134421445",
       "url": "https://lapras.com/",
       "tags": [
-        "service",
+        "services",
         "softskill"
       ],
       "title": "LAPRAS - AI技術で、ひとりひとりに合った新たな可能性を送り届けるサービス -",
@@ -1275,6 +1281,22 @@
       "host": "lapras.com",
       "image": "https://lapras.com/lp/og.png",
       "createdAt": "2023-08-30T00:49:11.116Z"
+    },
+    {
+      "id": "d27a4618-3419-488c-9d4f-c5cf451450d5",
+      "url": "https://plausible.io/",
+      "tags": [
+        "services",
+        "tools",
+        "analytics",
+        "web"
+      ],
+      "title": "Plausible Analytics | Simple, privacy-friendly Google Analytics alternative",
+      "description": "Plausible is a lightweight and open-source Google Analytics alternative. Your website data is 100% yours and the privacy of your visitors is respected.",
+      "icon": "https://plausible.io/assets/images/icon/favicon.png",
+      "host": "plausible.io",
+      "image": "https://plausible.io/assets/images/plausible_promo.jpg",
+      "createdAt": "2023-08-30T05:53:03.409Z"
     }
   ]
 }
