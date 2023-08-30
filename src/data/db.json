@@ -1930,6 +1930,38 @@
       "host": "twop.agile.esm.co.jp",
       "image": "https://miro.medium.com/v2/resize:fit:374/1*HY9rp_48MnGYosCmVNJ2RQ.png",
       "createdAt": "2023-08-30T10:15:02.560Z"
+    },
+    {
+      "id": "e89a9d04-cd68-44de-ba30-dd1e24d0c401",
+      "url": "https://misreading.chat/2022/05/12/92-software-development-waste/",
+      "tags": [
+        "podcast",
+        "development",
+        "theory",
+        "softskill"
+      ],
+      "title": "#92: Software Development Waste – Misreading Chat",
+      "description": "ソフトウェア開発のムダについて現場に潜り込み分析した論文を森田が読みました。",
+      "icon": "https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?w=32",
+      "host": "misreading.chat",
+      "image": "https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?w=200",
+      "createdAt": "2023-08-30T10:18:20.244Z"
+    },
+    {
+      "id": "b27c8037-4f16-4ac8-bc76-7d4cfa5a9619",
+      "url": "https://misreading.chat/2020/10/19/86-javascript-the-first-20-years-hopl/",
+      "tags": [
+        "podcast",
+        "web",
+        "javascript",
+        "history"
+      ],
+      "title": "#86: JavaScript: the first 20 years – Misreading Chat",
+      "description": "JavaScript 二十年の歴史を森田がひやかします。",
+      "icon": "https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?w=32",
+      "host": "misreading.chat",
+      "image": "https://misreadingchat.files.wordpress.com/2022/05/misreading-chat-cover.jpg?w=200",
+      "createdAt": "2023-08-30T10:19:21.594Z"
     }
   ]
 }
