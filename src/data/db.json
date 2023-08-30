@@ -551,6 +551,12 @@
       "name": "WebAssembly",
       "icon": true,
       "createdAt": "2023-08-30T08:21:20.930Z"
+    },
+    {
+      "slug": "performance",
+      "name": "パフォーマンス",
+      "icon": false,
+      "createdAt": "2023-08-30T08:24:09.948Z"
     }
   ],
   "docs": [
@@ -1761,6 +1767,21 @@
       "host": "zenn.dev",
       "image": "https://res.cloudinary.com/zenn/image/upload/s--PAHIOrMJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WASM%25E3%2581%25A8Rust%25E3%2581%25AFVue.js%252FReact.js%25E3%2582%2592%25E6%2589%2593%25E5%2580%2592%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2520%2520-%2520JS%25E3%2581%25B8%25E3%2581%25AE%25E4%25BE%25B5%25E7%2595%25A5%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koduki%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM0NmExZDBlNTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
       "createdAt": "2023-08-30T08:21:20.929Z"
+    },
+    {
+      "id": "0ebfeda6-abdc-49fc-b227-ab37cb48f7d3",
+      "url": "https://github.com/kostya/benchmarks",
+      "tags": [
+        "github",
+        "language",
+        "performance"
+      ],
+      "title": "GitHub - kostya/benchmarks: Some benchmarks of different languages",
+      "description": "Some benchmarks of different languages. Contribute to kostya/benchmarks development by creating an account on GitHub.",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "host": "github.com",
+      "image": "https://opengraph.githubassets.com/6aea511f09bacda7c4ac54d5212bb097e470dc22f79eec0401a114a2b413ddf7/kostya/benchmarks",
+      "createdAt": "2023-08-30T08:24:09.948Z"
     }
   ]
 }
