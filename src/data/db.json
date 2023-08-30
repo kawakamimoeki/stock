@@ -491,6 +491,30 @@
       "name": "エッジコンピューティング",
       "icon": false,
       "createdAt": "2023-08-30T06:11:57.993Z"
+    },
+    {
+      "slug": "fastly",
+      "name": "Fastly",
+      "icon": true,
+      "createdAt": "2023-08-30T06:14:38.258Z"
+    },
+    {
+      "slug": "deno",
+      "name": "Deno",
+      "icon": true,
+      "createdAt": "2023-08-30T06:14:38.258Z"
+    },
+    {
+      "slug": "bun",
+      "name": "Bun",
+      "icon": true,
+      "createdAt": "2023-08-30T06:14:38.258Z"
+    },
+    {
+      "slug": "lambda",
+      "name": "Lambda",
+      "icon": true,
+      "createdAt": "2023-08-30T06:14:38.258Z"
     }
   ],
   "docs": [
@@ -1376,6 +1400,28 @@
       "host": "www.cloudflare.com",
       "image": "",
       "createdAt": "2023-08-30T06:11:57.993Z"
+    },
+    {
+      "id": "53becf3d-81f7-4755-a392-606677a7e293",
+      "url": "https://hono.dev/",
+      "tags": [
+        "official",
+        "edge",
+        "cloudflare",
+        "fastly",
+        "deno",
+        "bun",
+        "vercel",
+        "documentations",
+        "nodejs",
+        "lambda"
+      ],
+      "title": "Hono - Ultrafast web framework for the Edges",
+      "description": "Hono is a small, simple, and ultrafast web framework for the Edges. It works on Cloudflare Workers, Fastly Compute@Edge, Deno, Bun, Vercel, Netlify, Lagon, AWS Lambda, Lambda@Edge, and Node.js. Fast, but not only fast.",
+      "icon": "https://hono.dev/favicon.ico",
+      "host": "hono.dev",
+      "image": "https://hono.dev/images/hono-title.png",
+      "createdAt": "2023-08-30T06:14:38.257Z"
     }
   ]
 }
