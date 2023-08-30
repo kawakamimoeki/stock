@@ -1914,6 +1914,22 @@
       "host": "blog.webf.zone",
       "image": "https://miro.medium.com/v2/resize:fit:1200/1*v3KuRCLBRyahUEd3LvRbgQ.png",
       "createdAt": "2023-08-30T10:11:52.702Z"
+    },
+    {
+      "id": "e7c868db-cf04-4ead-994e-cfc9f3528f5a",
+      "url": "https://twop.agile.esm.co.jp/are-stub-and-mock-really-bad-ed7658927ba7",
+      "tags": [
+        "testing",
+        "practice",
+        "blog",
+        "medium"
+      ],
+      "title": "スタブ・モックは本当に悪者なのか？〜テスト駆動開発をやめて、なお残すべき習慣とは (2) | by Eiji Ienaga | 時を超えたプログラミングの道",
+      "description": "TDD批判の際に真っ先に矛先を向けられるスタブ・モックは本当に役に立たない代物なのでしょうか？自身の経験を踏まえて再考してみます。",
+      "icon": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+      "host": "twop.agile.esm.co.jp",
+      "image": "https://miro.medium.com/v2/resize:fit:374/1*HY9rp_48MnGYosCmVNJ2RQ.png",
+      "createdAt": "2023-08-30T10:15:02.560Z"
     }
   ]
 }
