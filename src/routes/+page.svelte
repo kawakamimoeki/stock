@@ -2,8 +2,11 @@
 	import DocCard from '$lib/DocCard.svelte';
 	import Fuse from 'fuse.js';
 	import type { PageData } from './$types';
-	import { orderBy, shuffle } from 'lodash';
+	import pkg from 'lodash';
 	import TagCard from '$lib/TagCard.svelte';
+
+	const { orderBy, shuffle } = pkg;
+
 	export let data: PageData;
 
 	export let q: string = '';
