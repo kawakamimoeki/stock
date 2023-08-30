@@ -407,6 +407,24 @@
       "name": "Flash",
       "icon": false,
       "createdAt": "2023-08-30T00:26:09.951Z"
+    },
+    {
+      "slug": "development",
+      "name": "開発全般",
+      "icon": false,
+      "createdAt": "2023-08-30T00:29:14.177Z"
+    },
+    {
+      "slug": "team",
+      "name": "チーム開発",
+      "icon": false,
+      "createdAt": "2023-08-30T00:29:14.177Z"
+    },
+    {
+      "slug": "google",
+      "name": "Google",
+      "icon": true,
+      "createdAt": "2023-08-30T00:29:14.177Z"
     }
   ],
   "docs": [
@@ -1126,6 +1144,24 @@
       "host": "blog.kaspersky.co.jp",
       "image": "https://media.kasperskydaily.com/wp-content/uploads/sites/98/2022/11/04162222/life-and-death-of-adobe-flash-Featured.jpg",
       "createdAt": "2023-08-30T00:26:09.951Z"
+    },
+    {
+      "id": "de43f5b3-83e8-48a2-984e-67d827bb9e0f",
+      "url": "https://cloud.google.com/blog/ja/products/gcp/using-the-four-keys-to-measure-your-devops-performance",
+      "tags": [
+        "softskill",
+        "development",
+        "theory",
+        "team",
+        "blog",
+        "google"
+      ],
+      "title": "エリート DevOps チームであることを Four Keys プロジェクトで確認する | Google Cloud 公式ブログ",
+      "description": "",
+      "icon": "https://ssl.gstatic.com/cloud/images/icons/favicon.ico",
+      "host": "cloud.google.com",
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DevOps_BlogHeader_A_Rnd3.max-2800x2800.jpg",
+      "createdAt": "2023-08-30T00:29:14.177Z"
     }
   ]
 }
