@@ -40,6 +40,9 @@
 <header class="p-4 max-w-4xl mx-auto flex items-center text-center w-full">
 	<a class="font-bold" href="/">stoc.dev</a>
 	<div class="grow" />
+	<a href="/search" aria-label="検索" class="block hover:bg-gray-50 rounded-full p-3">
+		<div class="i-lucide-search" />
+	</a>
 	<a href="/feed" aria-label="RSS" target="_blank" class="block hover:bg-gray-50 rounded-full p-3">
 		<div class="i-lucide-rss" />
 	</a>
