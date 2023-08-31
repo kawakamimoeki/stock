@@ -2379,6 +2379,40 @@
       "host": "monorepo.tools",
       "image": "https://monorepo.tools/images/og-monorepotools.jpg",
       "createdAt": "2023-08-31T09:34:37.608Z"
+    },
+    {
+      "id": "d0258b13-f841-46d5-9079-c9e8743db404",
+      "url": "https://bazel.build/?hl=ja",
+      "tags": [
+        "monorepo",
+        "development",
+        "build",
+        "official",
+        "library"
+      ],
+      "title": "Bazel",
+      "description": "Bazel オープンソース プロジェクトを使用して、大規模で複数言語のマルチプラットフォーム コードベースをスケーラブルに構築してテストできます。",
+      "icon": "https://www.gstatic.com/devrel-devsite/prod/vbad4fd6eb290ad214822e7a397f826be8dbcc36ca2a922ba48f41fb14286829c/bazel/images/favicon-prod.png",
+      "host": "bazel.build",
+      "image": "",
+      "createdAt": "2023-08-31T09:44:19.913Z"
+    },
+    {
+      "id": "4cfae4cf-2f1c-49ae-a203-b3fb33a2622e",
+      "url": "https://turbo.build/",
+      "tags": [
+        "monorepo",
+        "development",
+        "build",
+        "official",
+        "library"
+      ],
+      "title": "Turbo",
+      "description": "Turbo is an incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.",
+      "icon": "https://turbo.build/images/favicon-dark/favicon-32x32.png",
+      "host": "turbo.build",
+      "image": "https://turbo.build/api/og",
+      "createdAt": "2023-08-31T09:44:30.542Z"
     }
   ]
 }
