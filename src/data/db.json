@@ -738,7 +738,8 @@
         "typescript",
         "vite",
         "build",
-        "vue"
+        "vue",
+        "bundler"
       ],
       "title": "Vite | 次世代フロントエンドツール",
       "description": "次世代フロントエンドツール",
@@ -2183,7 +2184,8 @@
         "javascript",
         "nodejs",
         "css",
-        "library"
+        "library",
+        "build"
       ],
       "title": "webpack",
       "description": "webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
@@ -2200,7 +2202,8 @@
         "javascript",
         "nodejs",
         "css",
-        "library"
+        "library",
+        "build"
       ],
       "title": "Rollup | Rollup",
       "description": "compile JS code",
@@ -2208,6 +2211,23 @@
       "host": "rollupjs.org",
       "image": "",
       "createdAt": "2023-08-31T03:58:14.035Z"
+    },
+    {
+      "id": "154613d0-e81e-44bc-9a86-ed65d45d2b4b",
+      "url": "https://esbuild.github.io/",
+      "tags": [
+        "bundler",
+        "javascript",
+        "nodejs",
+        "library",
+        "build"
+      ],
+      "title": "esbuild - An extremely fast bundler for the web",
+      "description": "",
+      "icon": "https://esbuild.github.io/favicon.svg",
+      "host": "esbuild.github.io",
+      "image": "",
+      "createdAt": "2023-08-31T03:59:22.399Z"
     }
   ]
 }
