@@ -611,6 +611,30 @@
       "name": "バンドラー",
       "icon": false,
       "createdAt": "2023-08-31T03:57:40.101Z"
+    },
+    {
+      "slug": "formatter",
+      "name": "formatter",
+      "icon": false,
+      "createdAt": "2023-08-31T04:01:25.144Z"
+    },
+    {
+      "slug": "graphql",
+      "name": "GraphQL",
+      "icon": false,
+      "createdAt": "2023-08-31T04:01:25.144Z"
+    },
+    {
+      "slug": "markdown",
+      "name": "マークダウン",
+      "icon": false,
+      "createdAt": "2023-08-31T04:01:25.144Z"
+    },
+    {
+      "slug": "yaml",
+      "name": "YAML",
+      "icon": false,
+      "createdAt": "2023-08-31T04:01:25.144Z"
     }
   ],
   "docs": [
@@ -2228,6 +2252,25 @@
       "host": "esbuild.github.io",
       "image": "",
       "createdAt": "2023-08-31T03:59:22.399Z"
+    },
+    {
+      "id": "dbd7a773-8f05-45c2-bf4a-52a6de7da2d5",
+      "url": "https://prettier.io/",
+      "tags": [
+        "formatter",
+        "javascript",
+        "css",
+        "html",
+        "graphql",
+        "markdown",
+        "yaml"
+      ],
+      "title": "Prettier · Opinionated Code Formatter",
+      "description": "Opinionated Code Formatter",
+      "icon": "https://prettier.io/icon.png",
+      "host": "prettier.io",
+      "image": "https://prettier.io/icon.png",
+      "createdAt": "2023-08-31T04:01:25.143Z"
     }
   ]
 }
