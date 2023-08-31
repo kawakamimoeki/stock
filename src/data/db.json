@@ -2191,6 +2191,23 @@
       "host": "webpack.js.org",
       "image": "https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png",
       "createdAt": "2023-08-31T03:57:40.101Z"
+    },
+    {
+      "id": "45e4d04d-5f78-428a-8a9d-e32fab7cb77e",
+      "url": "https://rollupjs.org/",
+      "tags": [
+        "bundler",
+        "javascript",
+        "nodejs",
+        "css",
+        "library"
+      ],
+      "title": "Rollup | Rollup",
+      "description": "compile JS code",
+      "icon": "https://rollupjs.org/favicon.png",
+      "host": "rollupjs.org",
+      "image": "",
+      "createdAt": "2023-08-31T03:58:14.035Z"
     }
   ]
 }
