@@ -653,6 +653,12 @@
       "name": "UX",
       "icon": false,
       "createdAt": "2023-08-31T09:23:04.166Z"
+    },
+    {
+      "slug": "monorepo",
+      "name": "モノレポ",
+      "icon": false,
+      "createdAt": "2023-08-31T09:34:37.609Z"
     }
   ],
   "docs": [
@@ -2357,6 +2363,22 @@
       "host": "cpojer.net",
       "image": "https://cpojer-og-image.vercel.app/Principles%20of%20Developer%20Experience.png?theme=pink&md=1&fontSize=150px",
       "createdAt": "2023-08-31T09:23:04.166Z"
+    },
+    {
+      "id": "382c2ba3-57b7-4846-b676-4db5002f16e4",
+      "url": "https://monorepo.tools/",
+      "tags": [
+        "development",
+        "monorepo",
+        "github",
+        "git"
+      ],
+      "title": "Monorepo Explained",
+      "description": "Everything you need to know about monorepos, and the tools to build them.",
+      "icon": "https://monorepo.tools/images/browser/icon.svg",
+      "host": "monorepo.tools",
+      "image": "https://monorepo.tools/images/og-monorepotools.jpg",
+      "createdAt": "2023-08-31T09:34:37.608Z"
     }
   ]
 }
