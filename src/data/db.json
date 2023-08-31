@@ -641,6 +641,12 @@
       "name": "Linter",
       "icon": false,
       "createdAt": "2023-08-31T04:04:36.613Z"
+    },
+    {
+      "slug": "json",
+      "name": "JSON",
+      "icon": false,
+      "createdAt": "2023-08-31T05:07:25.490Z"
     }
   ],
   "docs": [
@@ -2311,6 +2317,24 @@
       "host": "nextjs.org",
       "image": "https://nextjs.org/api/og?title=Upgrading:%20Migrating%20from%20Vite",
       "createdAt": "2023-08-31T04:21:45.865Z"
+    },
+    {
+      "id": "76fa7468-4250-4870-beb7-3688b393c2eb",
+      "url": "https://triple-underscore.github.io/index.html",
+      "tags": [
+        "html",
+        "css",
+        "json",
+        "web",
+        "internet",
+        "standard"
+      ],
+      "title": "Web 関連仕様 日本語訳",
+      "description": "",
+      "icon": "https://triple-underscore.github.io/common/3underscore.png",
+      "host": "triple-underscore.github.io",
+      "image": "",
+      "createdAt": "2023-08-31T05:07:25.489Z"
     }
   ]
 }
