@@ -605,6 +605,42 @@
       "name": "デザインパターン",
       "icon": false,
       "createdAt": "2023-08-30T13:16:20.909Z"
+    },
+    {
+      "slug": "bundler",
+      "name": "バンドラー",
+      "icon": false,
+      "createdAt": "2023-08-31T03:57:40.101Z"
+    },
+    {
+      "slug": "formatter",
+      "name": "formatter",
+      "icon": false,
+      "createdAt": "2023-08-31T04:01:25.144Z"
+    },
+    {
+      "slug": "graphql",
+      "name": "GraphQL",
+      "icon": false,
+      "createdAt": "2023-08-31T04:01:25.144Z"
+    },
+    {
+      "slug": "markdown",
+      "name": "マークダウン",
+      "icon": false,
+      "createdAt": "2023-08-31T04:01:25.144Z"
+    },
+    {
+      "slug": "yaml",
+      "name": "YAML",
+      "icon": false,
+      "createdAt": "2023-08-31T04:01:25.144Z"
+    },
+    {
+      "slug": "linter",
+      "name": "Linter",
+      "icon": false,
+      "createdAt": "2023-08-31T04:04:36.613Z"
     }
   ],
   "docs": [
@@ -732,7 +768,8 @@
         "typescript",
         "vite",
         "build",
-        "vue"
+        "vue",
+        "bundler"
       ],
       "title": "Vite | 次世代フロントエンドツール",
       "description": "次世代フロントエンドツール",
@@ -2120,6 +2157,160 @@
       "host": "blog.mozilla.org",
       "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/08/moz_explains_blue_links_blog_header-1080x720.jpg",
       "createdAt": "2023-08-30T13:25:22.823Z"
+    },
+    {
+      "id": "43063d51-4144-42cc-af25-71bc9da74708",
+      "url": "https://caniuse.com/",
+      "tags": [
+        "browser",
+        "web",
+        "javascript",
+        "css",
+        "tools"
+      ],
+      "title": "Can I use... Support tables for HTML5, CSS3, etc",
+      "description": "",
+      "icon": "https://caniuse.com/img/favicon-128.png",
+      "host": "caniuse.com",
+      "image": "",
+      "createdAt": "2023-08-31T03:55:04.966Z"
+    },
+    {
+      "id": "c5666f69-a350-469c-a28e-17e99a8402bc",
+      "url": "https://babeljs.io/",
+      "tags": [
+        "javascript",
+        "nodejs",
+        "runtime",
+        "library"
+      ],
+      "title": "Babel · Babel",
+      "description": "The compiler for next generation JavaScript",
+      "icon": "https://babeljs.io/img/favicon.png",
+      "host": "babeljs.io",
+      "image": "",
+      "createdAt": "2023-08-31T03:56:26.894Z"
+    },
+    {
+      "id": "21fa5778-4a42-4d09-bb70-566874112f53",
+      "url": "https://www.typescriptlang.org/",
+      "tags": [
+        "javascript",
+        "typescript",
+        "language"
+      ],
+      "title": "TypeScript: JavaScript With Syntax For Types.",
+      "description": "TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code.",
+      "icon": "https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae",
+      "host": "www.typescriptlang.org",
+      "image": "",
+      "createdAt": "2023-08-31T03:57:00.059Z"
+    },
+    {
+      "id": "f8948644-6bc2-4372-a0d6-def714eece1d",
+      "url": "https://webpack.js.org/",
+      "tags": [
+        "bundler",
+        "javascript",
+        "nodejs",
+        "css",
+        "library",
+        "build"
+      ],
+      "title": "webpack",
+      "description": "webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
+      "icon": "https://webpack.js.org/favicon.a3dd58d3142f7566.ico",
+      "host": "webpack.js.org",
+      "image": "https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png",
+      "createdAt": "2023-08-31T03:57:40.101Z"
+    },
+    {
+      "id": "45e4d04d-5f78-428a-8a9d-e32fab7cb77e",
+      "url": "https://rollupjs.org/",
+      "tags": [
+        "bundler",
+        "javascript",
+        "nodejs",
+        "css",
+        "library",
+        "build"
+      ],
+      "title": "Rollup | Rollup",
+      "description": "compile JS code",
+      "icon": "https://rollupjs.org/favicon.png",
+      "host": "rollupjs.org",
+      "image": "",
+      "createdAt": "2023-08-31T03:58:14.035Z"
+    },
+    {
+      "id": "154613d0-e81e-44bc-9a86-ed65d45d2b4b",
+      "url": "https://esbuild.github.io/",
+      "tags": [
+        "bundler",
+        "javascript",
+        "nodejs",
+        "library",
+        "build"
+      ],
+      "title": "esbuild - An extremely fast bundler for the web",
+      "description": "",
+      "icon": "https://esbuild.github.io/favicon.svg",
+      "host": "esbuild.github.io",
+      "image": "",
+      "createdAt": "2023-08-31T03:59:22.399Z"
+    },
+    {
+      "id": "dbd7a773-8f05-45c2-bf4a-52a6de7da2d5",
+      "url": "https://prettier.io/",
+      "tags": [
+        "formatter",
+        "javascript",
+        "css",
+        "html",
+        "graphql",
+        "markdown",
+        "yaml"
+      ],
+      "title": "Prettier · Opinionated Code Formatter",
+      "description": "Opinionated Code Formatter",
+      "icon": "https://prettier.io/icon.png",
+      "host": "prettier.io",
+      "image": "https://prettier.io/icon.png",
+      "createdAt": "2023-08-31T04:01:25.143Z"
+    },
+    {
+      "id": "0350068d-e3ef-40a4-9c0e-4a18aa4b5082",
+      "url": "https://eslint.org/",
+      "tags": [
+        "linter",
+        "javascript",
+        "official"
+      ],
+      "title": "Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter",
+      "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.\n",
+      "icon": "https://eslint.org/favicon.ico",
+      "host": "eslint.org",
+      "image": "https://eslint.org/icon-512.png",
+      "createdAt": "2023-08-31T04:04:36.612Z"
+    },
+    {
+      "id": "a7ee32f7-7f70-40ad-8615-06d329458034",
+      "url": "https://nextjs.org/docs/app/building-your-application/upgrading/from-vite",
+      "tags": [
+        "nextjs",
+        "vite",
+        "bundler",
+        "build",
+        "javascript",
+        "guide",
+        "practice"
+      ],
+      "title": "Upgrading: Migrating from Vite | Next.js",
+      "description": "Learn how to migrate your existing React application from Vite to Next.js.",
+      "icon": "https://nextjs.org/favicon.ico",
+      "host": "nextjs.org",
+      "image": "https://nextjs.org/api/og?title=Upgrading:%20Migrating%20from%20Vite",
+      "createdAt": "2023-08-31T04:21:45.865Z"
     }
   ]
 }
