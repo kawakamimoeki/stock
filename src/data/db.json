@@ -605,6 +605,12 @@
       "name": "デザインパターン",
       "icon": false,
       "createdAt": "2023-08-30T13:16:20.909Z"
+    },
+    {
+      "slug": "bundler",
+      "name": "バンドラー",
+      "icon": false,
+      "createdAt": "2023-08-31T03:57:40.101Z"
     }
   ],
   "docs": [
@@ -2168,6 +2174,23 @@
       "host": "www.typescriptlang.org",
       "image": "",
       "createdAt": "2023-08-31T03:57:00.059Z"
+    },
+    {
+      "id": "f8948644-6bc2-4372-a0d6-def714eece1d",
+      "url": "https://webpack.js.org/",
+      "tags": [
+        "bundler",
+        "javascript",
+        "nodejs",
+        "css",
+        "library"
+      ],
+      "title": "webpack",
+      "description": "webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
+      "icon": "https://webpack.js.org/favicon.a3dd58d3142f7566.ico",
+      "host": "webpack.js.org",
+      "image": "https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png",
+      "createdAt": "2023-08-31T03:57:40.101Z"
     }
   ]
 }
