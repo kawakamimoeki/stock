@@ -2153,6 +2153,21 @@
       "host": "babeljs.io",
       "image": "",
       "createdAt": "2023-08-31T03:56:26.894Z"
+    },
+    {
+      "id": "21fa5778-4a42-4d09-bb70-566874112f53",
+      "url": "https://www.typescriptlang.org/",
+      "tags": [
+        "javascript",
+        "typescript",
+        "language"
+      ],
+      "title": "TypeScript: JavaScript With Syntax For Types.",
+      "description": "TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code.",
+      "icon": "https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae",
+      "host": "www.typescriptlang.org",
+      "image": "",
+      "createdAt": "2023-08-31T03:57:00.059Z"
     }
   ]
 }
