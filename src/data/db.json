@@ -635,6 +635,12 @@
       "name": "YAML",
       "icon": false,
       "createdAt": "2023-08-31T04:01:25.144Z"
+    },
+    {
+      "slug": "linter",
+      "name": "Linter",
+      "icon": false,
+      "createdAt": "2023-08-31T04:04:36.613Z"
     }
   ],
   "docs": [
@@ -2271,6 +2277,21 @@
       "host": "prettier.io",
       "image": "https://prettier.io/icon.png",
       "createdAt": "2023-08-31T04:01:25.143Z"
+    },
+    {
+      "id": "0350068d-e3ef-40a4-9c0e-4a18aa4b5082",
+      "url": "https://eslint.org/",
+      "tags": [
+        "linter",
+        "javascript",
+        "official"
+      ],
+      "title": "Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter",
+      "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.\n",
+      "icon": "https://eslint.org/favicon.ico",
+      "host": "eslint.org",
+      "image": "https://eslint.org/icon-512.png",
+      "createdAt": "2023-08-31T04:04:36.612Z"
     }
   ]
 }
