@@ -2292,6 +2292,25 @@
       "host": "eslint.org",
       "image": "https://eslint.org/icon-512.png",
       "createdAt": "2023-08-31T04:04:36.612Z"
+    },
+    {
+      "id": "a7ee32f7-7f70-40ad-8615-06d329458034",
+      "url": "https://nextjs.org/docs/app/building-your-application/upgrading/from-vite",
+      "tags": [
+        "nextjs",
+        "vite",
+        "bundler",
+        "build",
+        "javascript",
+        "guide",
+        "practice"
+      ],
+      "title": "Upgrading: Migrating from Vite | Next.js",
+      "description": "Learn how to migrate your existing React application from Vite to Next.js.",
+      "icon": "https://nextjs.org/favicon.ico",
+      "host": "nextjs.org",
+      "image": "https://nextjs.org/api/og?title=Upgrading:%20Migrating%20from%20Vite",
+      "createdAt": "2023-08-31T04:21:45.865Z"
     }
   ]
 }
