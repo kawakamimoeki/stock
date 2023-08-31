@@ -2120,6 +2120,23 @@
       "host": "blog.mozilla.org",
       "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/08/moz_explains_blue_links_blog_header-1080x720.jpg",
       "createdAt": "2023-08-30T13:25:22.823Z"
+    },
+    {
+      "id": "43063d51-4144-42cc-af25-71bc9da74708",
+      "url": "https://caniuse.com/",
+      "tags": [
+        "browser",
+        "web",
+        "javascript",
+        "css",
+        "tools"
+      ],
+      "title": "Can I use... Support tables for HTML5, CSS3, etc",
+      "description": "",
+      "icon": "https://caniuse.com/img/favicon-128.png",
+      "host": "caniuse.com",
+      "image": "",
+      "createdAt": "2023-08-31T03:55:04.966Z"
     }
   ]
 }
