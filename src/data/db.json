@@ -2413,6 +2413,21 @@
       "host": "turbo.build",
       "image": "https://turbo.build/api/og",
       "createdAt": "2023-08-31T09:44:30.542Z"
+    },
+    {
+      "id": "fd8f0a23-fd40-4dc3-8beb-8202608ab8ba",
+      "url": "https://engineering.mercari.com/blog/entry/20220303-concerns-with-using-graphql/",
+      "tags": [
+        "graphql",
+        "blog",
+        "practice"
+      ],
+      "title": "GraphQLを導入する時に考えておいたほうが良いこと | メルカリエンジニアリング",
+      "description": "はじめにこんにちは、ソウゾウSoftware Engineerの@sue71です。連載：メルカリShops 開発の裏側 Vol.2の13日目を担当させていただきます。以前メルカリメルカリShopsの技術スタックと、その選定理由でBFFの実装",
+      "icon": "https://engineering.mercari.com/favicon.ico",
+      "host": "engineering.mercari.com",
+      "image": "https://engineering.mercari.com//img/ogp/ogp_a.jpg",
+      "createdAt": "2023-09-01T03:56:43.608Z"
     }
   ]
 }
