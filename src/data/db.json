@@ -2428,6 +2428,20 @@
       "host": "engineering.mercari.com",
       "image": "https://engineering.mercari.com//img/ogp/ogp_a.jpg",
       "createdAt": "2023-09-01T03:56:43.608Z"
+    },
+    {
+      "id": "4b5a90e0-53ef-4534-9ed5-f74b14f9f0bd",
+      "url": "https://www.mend.io/renovate/",
+      "tags": [
+        "github",
+        "package-manager"
+      ],
+      "title": "Mend Renovate: Automated Dependency Updates",
+      "description": "Mend Renovate is a free tool that allows automating dependency updates in software projects. Fully customizable with a setting to suit every workflow.",
+      "icon": "https://www.mend.io/wp-content/media/2023/04/cropped-mend-io-logo-circle-32x32.png",
+      "host": "www.mend.io",
+      "image": "https://www.mend.io/wp-content/media/2023/04/mend-io-logo-ver.png",
+      "createdAt": "2023-09-03T12:21:23.508Z"
     }
   ]
 }
