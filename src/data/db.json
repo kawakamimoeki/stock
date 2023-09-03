@@ -659,6 +659,12 @@
       "name": "モノレポ",
       "icon": false,
       "createdAt": "2023-08-31T09:34:37.609Z"
+    },
+    {
+      "slug": "oss",
+      "name": "OSS",
+      "icon": false,
+      "createdAt": "2023-09-03T12:27:21.588Z"
     }
   ],
   "docs": [
@@ -2442,6 +2448,22 @@
       "host": "www.mend.io",
       "image": "https://www.mend.io/wp-content/media/2023/04/mend-io-logo-ver.png",
       "createdAt": "2023-09-03T12:21:23.508Z"
+    },
+    {
+      "id": "98446c0e-c6ca-437e-b7eb-ceb20bf4680f",
+      "url": "https://zenn.dev/koduki/articles/45f65a5318f019",
+      "tags": [
+        "oss",
+        "theory",
+        "zenn",
+        "blog"
+      ],
+      "title": "なぜ脱OSSが増えているのか？",
+      "description": "",
+      "icon": "https://static.zenn.studio/images/logo-transparent.png",
+      "host": "zenn.dev",
+      "image": "https://res.cloudinary.com/zenn/image/upload/s--Qg_tVoE_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E8%2584%25B1OSS%25E3%2581%258C%25E5%25A2%2597%25E3%2581%2588%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koduki%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM0NmExZDBlNTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
+      "createdAt": "2023-09-03T12:27:21.587Z"
     }
   ]
 }
