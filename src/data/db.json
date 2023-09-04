@@ -2464,6 +2464,22 @@
       "host": "zenn.dev",
       "image": "https://res.cloudinary.com/zenn/image/upload/s--Qg_tVoE_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E8%2584%25B1OSS%25E3%2581%258C%25E5%25A2%2597%25E3%2581%2588%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koduki%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM0NmExZDBlNTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
       "createdAt": "2023-09-03T12:27:21.587Z"
+    },
+    {
+      "id": "e63f87ee-cd03-4d5a-82be-bb2e722d221c",
+      "url": "https://netflixtechblog.medium.com/lessons-learnt-from-consolidating-ml-models-in-a-large-scale-recommendation-system-870c5ea5eb4a",
+      "tags": [
+        "company",
+        "blog",
+        "medium",
+        "architecture"
+      ],
+      "title": "Lessons Learnt From Consolidating ML Models in a Large Scale Recommendation System | by Netflix Technology Blog | Aug, 2023 | Medium",
+      "description": "by Roger Menezes, Rahul Jha, Gary Yeh, and Sudarshan Lamkhede",
+      "icon": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+      "host": "netflixtechblog.medium.com",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/0*y2HzSZ1f8WebJa8o",
+      "createdAt": "2023-09-04T02:29:02.895Z"
     }
   ]
 }
