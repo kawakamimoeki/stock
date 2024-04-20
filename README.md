@@ -39,13 +39,14 @@ npx stock doc https://example.com/ --tags tag1,tag2
 npx stock tag example-tag "Example Tag" --icon /path/to/image
 ```
 
+`example-tag` はスラグです。
+もしタグが存在していたら更新されます。
+
 ## タグの一覧
 
 ```
 npx stock tags
 ```
-
-もしタグが存在していたら更新されます。
 
 ## サーバー
 
