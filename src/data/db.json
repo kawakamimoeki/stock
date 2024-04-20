@@ -665,6 +665,12 @@
       "name": "OSS",
       "icon": false,
       "createdAt": "2023-09-03T12:27:21.588Z"
+    },
+    {
+      "slug": "cli",
+      "name": "cli",
+      "icon": false,
+      "createdAt": "2024-04-20T04:39:31.767Z"
     }
   ],
   "docs": [
@@ -2495,6 +2501,19 @@
       "host": "t-wada.hatenablog.jp",
       "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/t-wada/20240306/20240306130540.png",
       "createdAt": "2024-04-20T04:16:31.329Z"
+    },
+    {
+      "id": "cefd917f-72f5-4668-92c1-12cb92e6a605",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "tags": [
+        "cli"
+      ],
+      "title": "GitHub - BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore - BurntSushi/ripgrep",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "host": "github.com",
+      "image": "https://opengraph.githubassets.com/b0a590651726a4eed426e243c12d69f84e8764e5bf783053839b493790d2d0ee/BurntSushi/ripgrep",
+      "createdAt": "2024-04-20T04:39:31.766Z"
     }
   ]
 }
