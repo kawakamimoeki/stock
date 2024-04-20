@@ -36,7 +36,7 @@
 </script>
 
 <svelte:head>
-	<link href="https://stoc.dev/feed" rel="alternate" title="stoc.dev" type="application/rss+xml" />
+	<link href="https://stock-dev.vercel.app/feed" rel="alternate" title="stock" type="application/rss+xml" />
 </svelte:head>
 
 <div class="p-4 text-center">

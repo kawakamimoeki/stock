@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>{data.tag.name} - stoc.dev</title>
+	<title>{data.tag.name} - stock</title>
 </svelte:head>
 
 <div class="flex items-center space-x-2 p-4">

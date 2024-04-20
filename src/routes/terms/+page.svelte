@@ -3,8 +3,8 @@
 		<h1 class="text-2xl font-bold mb-4">利用規約</h1>
 
 		<p class="mb-4">
-			この利用規約は、<a class="underline text-sky-600" href="https://moeki.dev">Moeki Kawakami</a
-			>（以下、「運営者」といいます。）が stoc.dev
+			この利用規約は、<a class="underline text-sky-600" href="https://github.com/kawakamimoeki">Moeki Kawakami</a
+			>（以下、「運営者」といいます。）が stock
 			の利用条件を定めるものです。本規約に従って、本サービスをご利用いただくようお願いします。
 		</p>
 

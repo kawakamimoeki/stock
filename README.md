@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://stoc.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://stock-dev.vercel.app" target="_blank" rel="noopener noreferrer">
     <img width="560" src="./static/ogp.png" alt="">
   </a>
 </p>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/moekidev/stoc.dev" />
-  <img src="https://img.shields.io/github/last-commit/moekidev/stoc.dev" />
-  <img src="https://img.shields.io/github/stars/moekidev/stoc.dev" />
-  <img src="https://img.shields.io/github/license/moekidev/stoc.dev" />
+  <img src="https://img.shields.io/github/languages/top/kawakamimoeki/stock" />
+  <img src="https://img.shields.io/github/last-commit/kawakamimoeki/stock" />
+  <img src="https://img.shields.io/github/stars/kawakamimoeki/stock" />
+  <img src="https://img.shields.io/github/license/kawakamimoeki/stock" />
   <img src="https://img.shields.io/discord/1146215375344779345" />
 </p>
 <br/>
@@ -22,11 +22,11 @@
 ## 貢献する準備
 
 ```
-gh repo clone moekidev/stoc.dev
+gh repo clone kawakamimoeki/stock
 ```
 
 ```
-cd stoc.dev
+cd stock
 ```
 
 ```
@@ -57,12 +57,12 @@ npm run dev
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=moekidev/stoc.dev&type=Date)](https://star-history.com/#moekidev/stoc.dev)
+[![Star History Chart](https://api.star-history.com/svg?repos=kawakamimoeki/stock&type=Date)](https://star-history.com/#kawakamimoeki/stock)
 
 ## コントリビュート
 
-バグ報告やPull-reqはGitHubの https://github.com/moekidev/stoc.dev まで。
-このプロジェクトは安全で歓迎される共同作業の場を目指しており、貢献者は[行動規範](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md)を遵守することが期待されています。
+バグ報告やPull-reqはGitHubの https://github.com/kawakamimoeki/stock まで。
+このプロジェクトは安全で歓迎される共同作業の場を目指しており、貢献者は[行動規範](https://github.com/kawakamimoeki/stock/blob/main/CODE_OF_CONDUCT.md)を遵守することが期待されています。
 
 ## License
 
@@ -70,4 +70,4 @@ npm run dev
 
 ## 行動規範
 
-stoc.dev プロジェクトに関わるすべての人は、[行動規範](https://github.com/moekidev/stoc.dev/blob/main/CODE_OF_CONDUCT.md)に従うことが期待されています。
+stock プロジェクトに関わるすべての人は、[行動規範](https://github.com/kawakamimoeki/stock/blob/main/CODE_OF_CONDUCT.md)に従うことが期待されています。

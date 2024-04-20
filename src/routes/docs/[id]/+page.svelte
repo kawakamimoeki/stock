@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>{data.doc.title} - stoc.dev</title>
+	<title>{data.doc.title} - stock</title>
 </svelte:head>
 
 {#if data.doc.image}

@@ -24,21 +24,21 @@
 </script>
 
 <svelte:head>
-	<title>stoc.dev</title>
+	<title>stock</title>
 	<meta name="description" content="開発者が有益な情報へ効率的にたどり着くためのリンク集" />
 	<meta property="og:site_name" content="Stoc" />
 	<meta property="og:title" content="Stoc" />
 	<meta property="og:description" content="開発者が有益な情報へ効率的にたどり着くためのリンク集" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://stoc.dev/" />
+	<meta property="og:url" content="https://stock-dev.vercel.app/" />
 	<meta property="og:local" content="ja-JP" />
-	<meta property="og:image" content="https://stoc.dev/ogp.png" />
+	<meta property="og:image" content="https://stock-dev.vercel.app/ogp.png" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:image" content="https://stoc.dev/ogp.png" />
+	<meta name="twitter:image" content="https://stock-dev.vercel.app/ogp.png" />
 </svelte:head>
 
 <header class="p-4 max-w-4xl mx-auto flex items-center text-center w-full">
-	<a class="font-bold" href="/">stoc.dev</a>
+	<a class="font-bold" href="/">stock</a>
 	<div class="grow" />
 	<a href="/search" aria-label="検索" class="block hover:bg-gray-50 rounded-full p-3">
 		<div class="i-lucide-search" />
@@ -47,15 +47,7 @@
 		<div class="i-lucide-rss" />
 	</a>
 	<a
-		href="https://discord.gg/WTy8tpvZUn"
-		aria-label="Discord"
-		target="_blank"
-		class="block hover:bg-gray-50 rounded-full p-3"
-	>
-		<div class="i-bxl-discord-alt" />
-	</a>
-	<a
-		href="https://github.com/moekidev/stoc.dev"
+		href="https://github.com/kawakamimoeki/stock"
 		target="_blank"
 		aria-label="GitHub"
 		class="block hover:bg-gray-50 rounded-full p-3"
@@ -70,5 +62,5 @@
 
 <footer class="text-gray-500 p-4 text-center">
 	<p><a class="underline" href="/terms">利用規約</a></p>
-	<p>&copy; stoc.dev 2023</p>
+	<p>&copy; stock 2023</p>
 </footer>

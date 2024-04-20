@@ -4,11 +4,11 @@ import _ from 'lodash';
 
 export async function GET() {
 	const feed = new RSS({
-		title: 'stoc.dev',
+		title: 'stock',
 		description: '開発者が有益な情報へ効率的にたどり着くためのリンク集',
-		feed_url: 'https://stoc.dev/feed',
-		site_url: 'https://stoc.dev',
-		image_url: 'https://stoc.dev/ogp.png',
+		feed_url: 'https://stock-dev.vercel.app/feed',
+		site_url: 'https://stock',
+		image_url: 'https://stock-dev.vercel.app/ogp.png',
 		managingEditor: 'hello@moeki.dev',
 		webMaster: 'hello@moeki.dev',
 		copyright: '2023 Moeki Kawakami',
@@ -20,7 +20,7 @@ export async function GET() {
 			title: doc.title,
 			description: doc.title,
 			date: new Date(doc.createdAt),
-			url: `https://stoc.dev/docs/${doc.id}`
+			url: `https://stock-dev.vercel.app/docs/${doc.id}`
 		});
 	});
 
