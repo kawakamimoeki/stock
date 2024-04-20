@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://stock-dev.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img width="560" src="./static/ogp.png" alt="">
-  </a>
-</p>
-<br/>
-<p align="center">
   <img src="https://img.shields.io/github/languages/top/kawakamimoeki/stock" />
   <img src="https://img.shields.io/github/last-commit/kawakamimoeki/stock" />
   <img src="https://img.shields.io/github/stars/kawakamimoeki/stock" />
