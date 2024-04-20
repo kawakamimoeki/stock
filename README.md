@@ -13,7 +13,7 @@
 - 初学者のための学習リソースを提供する
 - ウェブ業界の歴史的な資料を蓄積する
 
-## 貢献する準備
+## 準備
 
 ```
 gh repo clone kawakamimoeki/stock
@@ -49,9 +49,11 @@ npx stoc tag example-tag "Example Tag" --icon /path/to/image
 npm run dev
 ```
 
-## Star History
+## Pull-req
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kawakamimoeki/stock&type=Date)](https://star-history.com/#kawakamimoeki/stock)
+形式は自由です。一気にたくさんのリンクを追加してもらっても結構です。
+内容によってはレビューで弾くかもです。
+
 
 ## コントリビュート
 
