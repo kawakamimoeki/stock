@@ -9,10 +9,9 @@ export async function GET() {
 Links to help developers reach useful information efficiently',
 		feed_url: 'https://stock-dev.vercel.app/feed',
 		site_url: 'https://stock',
-		image_url: 'https://stock-dev.vercel.app/ogp.png',
-		managingEditor: 'hello@moeki.dev',
-		webMaster: 'hello@moeki.dev',
-		copyright: '2023 Moeki Kawakami',
+		managingEditor: 'moeki.kawakami@icloud.com',
+		webMaster: 'moeki.kawakami@icloud.com',
+		copyright: '2024 Moeki Kawakami',
 		language: 'ja'
 	});
 

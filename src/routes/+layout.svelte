@@ -40,9 +40,6 @@ Links to help developers reach useful information efficiently"
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://stock-dev.vercel.app/" />
 	<meta property="og:local" content="ja-JP" />
-	<meta property="og:image" content="https://stock-dev.vercel.app/ogp.png" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:image" content="https://stock-dev.vercel.app/ogp.png" />
 </svelte:head>
 
 <header class="p-4 max-w-4xl mx-auto flex items-center text-center w-full">
