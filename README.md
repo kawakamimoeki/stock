@@ -59,6 +59,8 @@ npm run dev
 形式は自由です。一気にたくさんのリンクを追加してもらっても結構です。
 内容によってはレビューで弾くかもです。
 
+もちろんサイト自体の改善もお待ちしてます。
+
 ## コントリビュート
 
 バグ報告や Pull-req は GitHub の https://github.com/kawakamimoeki/stock まで。
