@@ -2480,6 +2480,20 @@
       "host": "netflixtechblog.medium.com",
       "image": "https://miro.medium.com/v2/resize:fit:1200/0*y2HzSZ1f8WebJa8o",
       "createdAt": "2023-09-04T02:29:02.895Z"
+    },
+    {
+      "id": "04e39cb7-7d1e-4267-8d79-9cb8add0360a",
+      "url": "https://t-wada.hatenablog.jp/entry/canon-tdd-by-kent-beck",
+      "tags": [
+        "testing",
+        "blog"
+      ],
+      "title": "【翻訳】テスト駆動開発の定義 - t-wadaのブログ",
+      "description": "このブログエントリでは、テスト駆動開発（TDD: Test-Driven Development）の考案者Kent BeckがTDDの定義を改めて明確化した文章を、許可を得たうえで翻訳し、訳者の考察を沿えています。 きっかけ 2023年の年末、テスト駆動開発（TDD: Test-Driven Development）の考案者Kent Beckは、substackにTDDに関するポストを連投して論戦を繰り広げていました。TDDはその誕生から20年以上が経ち、その間に「意味の希薄化」が発生して議論が噛み合わなくなっていました。意味の希薄化（Semantic Diffusion）とは、新しく作り出さ…",
+      "icon": "https://t-wada.hatenablog.jp/icon/link",
+      "host": "t-wada.hatenablog.jp",
+      "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/t-wada/20240306/20240306130540.png",
+      "createdAt": "2024-04-20T04:16:31.329Z"
     }
   ]
 }
