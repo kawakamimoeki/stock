@@ -3,7 +3,8 @@
 		<h1 class="text-2xl font-bold mb-4">利用規約</h1>
 
 		<p class="mb-4">
-			この利用規約は、<a class="underline text-sky-600" href="https://github.com/kawakamimoeki">Moeki Kawakami</a
+			この利用規約は、<a class="underline text-sky-600" href="https://github.com/kawakamimoeki"
+				>Moeki Kawakami</a
 			>（以下、「運営者」といいます。）が stock
 			の利用条件を定めるものです。本規約に従って、本サービスをご利用いただくようお願いします。
 		</p>
@@ -28,6 +29,8 @@
 
 		<h2 class="text-lg font-bold mb-4">お問い合わせ</h2>
 
-		<a class="underline text-sky-600" href="mailto:hello@moeki.dev">hello@moeki.dev</a> までご連絡頂ますようお願い致します。
+		<a class="underline text-sky-600" href="mailto:moeki.kawakami@icloud.com"
+			>moeki.kawakami@icloud.com</a
+		> までご連絡頂ますようお願い致します。
 	</div>
 </div>
