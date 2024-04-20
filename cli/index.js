@@ -122,6 +122,12 @@ cli
 		await db.write();
 	});
 
+cli.command('tags', 'List tag').action(async (slug, name, options) => {
+	const db = new Low(new JSONFile(join('src', 'data', 'db.json')), {});
+	await db.read();
+	console.log(db.data.tags.map((t) => t.slug).join('\n'));
+});
+
 cli.help();
 
 cli.parse();
