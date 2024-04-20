@@ -677,6 +677,24 @@
       "name": "アルゴリズム",
       "icon": false,
       "createdAt": "2024-04-20T04:48:22.153Z"
+    },
+    {
+      "slug": "tailwind",
+      "name": "tailwind",
+      "icon": false,
+      "createdAt": "2024-04-20T04:51:11.600Z"
+    },
+    {
+      "slug": "postgres",
+      "name": "postgres",
+      "icon": false,
+      "createdAt": "2024-04-20T04:51:11.600Z"
+    },
+    {
+      "slug": "docker",
+      "name": "docker",
+      "icon": false,
+      "createdAt": "2024-04-20T04:51:11.600Z"
     }
   ],
   "docs": [
@@ -2538,6 +2556,28 @@
       "host": "github.com",
       "image": "https://repository-images.githubusercontent.com/60493101/4ed59900-87ab-11ea-9e39-99741f040a83",
       "createdAt": "2024-04-20T04:48:22.152Z"
+    },
+    {
+      "id": "efb3e344-61f9-4010-a9fc-8991104c0638",
+      "url": "https://github.com/boxyhq/saas-starter-kit",
+      "tags": [
+        "saas",
+        "design-pattern",
+        "framework",
+        "nextjs",
+        "tailwind",
+        "postgres",
+        "react",
+        "prisma",
+        "typescript",
+        "docker"
+      ],
+      "title": "GitHub - boxyhq/saas-starter-kit: 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀",
+      "description": "🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀 - boxyhq/saas-starter-kit",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "host": "github.com",
+      "image": "https://opengraph.githubassets.com/da7bb81878b008347b3a93d9ffeb7610be4f3d7ce4ceb67785269f3a3931b60d/boxyhq/saas-starter-kit",
+      "createdAt": "2024-04-20T04:51:11.599Z"
     }
   ]
 }
