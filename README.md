@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/kawakamimoeki/stock" />
-  <img src="https://img.shields.io/github/last-commit/kawakamimoeki/stock" />
-  <img src="https://img.shields.io/github/stars/kawakamimoeki/stock" />
-  <img src="https://img.shields.io/github/license/kawakamimoeki/stock" />
+ <img src="https://img.shields.io/github/languages/top/kawakamimoeki/stock" />
+ <img src="https://img.shields.io/github/last-commit/kawakamimoeki/stock" />
+ <img src="https://img.shields.io/github/stars/kawakamimoeki/stock" />
+ <img src="https://img.shields.io/github/license/kawakamimoeki/stock" />
 </p>
 
-## 目的
+## Purpose
 
-- 📡 ウェブ開発の最新情報をシェアする
-- 📚 初学者のための学習リソースを提供する
-- 🗿 ウェブ業界の歴史的な資料を蓄積する
+- 📡 Share the latest information on web development
+- 📚 Provide learning resources for beginning students
+- 🗿 Accumulate historical resources on the web industry.
 
-## 準備
+## Preparation
 
 ```
 gh repo clone kawakamimoeki/stock
@@ -25,30 +25,30 @@ cd stock
 npm i
 ```
 
-## ドキュメントを追加する
+## Add documentation
 
 ```
 npx stock doc https://example.com/ --tags tag1,tag2
 ```
 
-もしドキュメントが存在していたらタグをマージします。
+Merge tags if the document exists.
 
-## タグを追加する
+## Add tags.
 
 ```
 npx stock tag example-tag "Example Tag" --icon /path/to/image
 ```
 
-`example-tag` はスラグです。
-もしタグが存在していたら更新されます。
+`example-tag` is a slug.
+If the tag exists, it will be updated.
 
-## タグの一覧
+## List of tags.
 
 ```
 npx stock tags
 ```
 
-## サーバー
+## servers
 
 ```
 npm run dev
@@ -56,20 +56,20 @@ npm run dev
 
 ## Pull requests
 
-形式は自由です。一気にたくさんのリンクを追加してもらっても結構です。
-内容によってはレビューで弾くかもです。
+You can use any format you like. You can add many links at once.
+We may reject them for review depending on the content.
 
-もちろんサイト自体の改善もお待ちしてます。
+Of course, we are also looking forward to improvements to the site itself.
 
-## コントリビュート
+## Contribute
 
-バグ報告や Pull-req は GitHub の https://github.com/kawakamimoeki/stock まで。
-このプロジェクトは安全で歓迎される共同作業の場を目指しており、貢献者は[行動規範](https://github.com/kawakamimoeki/stock/blob/main/CODE_OF_CONDUCT.md)を遵守することが期待されています。
+Please send bug reports and pull-reqs to https://github.com/kawakamimoeki/stock on GitHub.
+This project aims to be a safe, welcoming, and collaborative place, and contributors are expected to abide by the [Code of Conduct](https://github.com/kawakamimoeki/stock/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
 
-このアプリケーションは、[MIT ライセンス](https://opensource.org/licenses/MIT)の条件の下でオープンソースとして利用可能です
+This application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT)
 
-## 行動規範
+## Code of Conduct
 
-stock プロジェクトに関わるすべての人は、[行動規範](https://github.com/kawakamimoeki/stock/blob/main/CODE_OF_CONDUCT.md)に従うことが期待されています。
+All persons involved in the stock project are expected to abide by the [Code of Conduct](https://github.com/kawakamimoeki/stock/blob/main/CODE_OF_CONDUCT.md).
