@@ -33,7 +33,7 @@ npx stock doc https://example.com/ --tags tag1,tag2
 
 Merge tags if the document exists.
 
-## Add tags.
+## Add tags
 
 ```
 npx stock tag example-tag "Example Tag" --icon /path/to/image
@@ -42,13 +42,13 @@ npx stock tag example-tag "Example Tag" --icon /path/to/image
 `example-tag` is a slug.
 If the tag exists, it will be updated.
 
-## List of tags.
+## List of tags
 
 ```
 npx stock tags
 ```
 
-## servers
+## Server
 
 ```
 npm run dev
