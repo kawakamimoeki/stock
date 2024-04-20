@@ -5,7 +5,8 @@ import _ from 'lodash';
 export async function GET() {
 	const feed = new RSS({
 		title: 'stock',
-		description: '開発者が有益な情報へ効率的にたどり着くためのリンク集',
+		description: 'About
+Links to help developers reach useful information efficiently',
 		feed_url: 'https://stock-dev.vercel.app/feed',
 		site_url: 'https://stock',
 		image_url: 'https://stock-dev.vercel.app/ogp.png',
