@@ -2578,6 +2578,20 @@
       "host": "github.com",
       "image": "https://opengraph.githubassets.com/da7bb81878b008347b3a93d9ffeb7610be4f3d7ce4ceb67785269f3a3931b60d/boxyhq/saas-starter-kit",
       "createdAt": "2024-04-20T04:51:11.599Z"
+    },
+    {
+      "id": "3d144f5c-efe4-4aee-9d56-b8e22b92fcc3",
+      "url": "https://basecamp.com/handbook",
+      "tags": [
+        "company",
+        "softskill"
+      ],
+      "title": "The 37signals Employee Handbook",
+      "description": "Everything you need to know about making a career at 37signals.",
+      "icon": "https://basecamp.com/assets/general/favicon-2cea08419acd6169db678ef481a55ef6eecf4fb611d12830e03cf3009d0c4e1a.ico",
+      "host": "basecamp.com",
+      "image": "https://basecamp.com/assets/general/opengraph-182182e4c9a0a44b01adf12480e0fb7e4d92210e0c8176f28f9293f285252a02.png",
+      "createdAt": "2024-04-20T04:55:53.397Z"
     }
   ]
 }
