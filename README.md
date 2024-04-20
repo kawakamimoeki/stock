@@ -49,7 +49,7 @@ npx stoc tag example-tag "Example Tag" --icon /path/to/image
 npm run dev
 ```
 
-## Pull-req
+## Pull requests
 
 形式は自由です。一気にたくさんのリンクを追加してもらっても結構です。
 内容によってはレビューで弾くかもです。
