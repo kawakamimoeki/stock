@@ -1,5 +1,5 @@
 {
-	"name": "stoc",
+	"name": "stock",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",

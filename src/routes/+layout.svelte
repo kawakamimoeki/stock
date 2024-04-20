@@ -26,8 +26,8 @@
 <svelte:head>
 	<title>stock</title>
 	<meta name="description" content="開発者が有益な情報へ効率的にたどり着くためのリンク集" />
-	<meta property="og:site_name" content="Stoc" />
-	<meta property="og:title" content="Stoc" />
+	<meta property="og:site_name" content="stock" />
+	<meta property="og:title" content="stock" />
 	<meta property="og:description" content="開発者が有益な情報へ効率的にたどり着くためのリンク集" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://stock-dev.vercel.app/" />

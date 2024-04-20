@@ -1,7 +1,7 @@
 {
-	"name": "stoc-cli",
+	"name": "stock-cli",
 	"bin": {
-		"stoc": "index.js"
+		"stock": "index.js"
 	},
 	"type": "module",
 	"dependencies": {

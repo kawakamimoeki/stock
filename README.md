@@ -3,9 +3,7 @@
   <img src="https://img.shields.io/github/last-commit/kawakamimoeki/stock" />
   <img src="https://img.shields.io/github/stars/kawakamimoeki/stock" />
   <img src="https://img.shields.io/github/license/kawakamimoeki/stock" />
-  <img src="https://img.shields.io/discord/1146215375344779345" />
 </p>
-<br/>
 
 ## 目的
 
@@ -30,7 +28,7 @@ npm i
 ## ドキュメントを追加する
 
 ```
-npx stoc doc https://example.com/ --tags tag1,tag2
+npx stock doc https://example.com/ --tags tag1,tag2
 ```
 
 もしドキュメントが存在していたらタグをマージします。
@@ -38,7 +36,7 @@ npx stoc doc https://example.com/ --tags tag1,tag2
 ## タグを追加する
 
 ```
-npx stoc tag example-tag "Example Tag" --icon /path/to/image
+npx stock tag example-tag "Example Tag" --icon /path/to/image
 ```
 
 もしタグが存在していたら更新されます。
@@ -54,15 +52,14 @@ npm run dev
 形式は自由です。一気にたくさんのリンクを追加してもらっても結構です。
 内容によってはレビューで弾くかもです。
 
-
 ## コントリビュート
 
-バグ報告やPull-reqはGitHubの https://github.com/kawakamimoeki/stock まで。
+バグ報告や Pull-req は GitHub の https://github.com/kawakamimoeki/stock まで。
 このプロジェクトは安全で歓迎される共同作業の場を目指しており、貢献者は[行動規範](https://github.com/kawakamimoeki/stock/blob/main/CODE_OF_CONDUCT.md)を遵守することが期待されています。
 
 ## License
 
-このアプリケーションは、[MITライセンス](https://opensource.org/licenses/MIT)の条件の下でオープンソースとして利用可能です
+このアプリケーションは、[MIT ライセンス](https://opensource.org/licenses/MIT)の条件の下でオープンソースとして利用可能です
 
 ## 行動規範
 

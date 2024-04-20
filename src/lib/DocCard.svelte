@@ -9,7 +9,7 @@
 	<div class="flex items-center space-x-1">
 		{#if doc.icon}
 			<img
-				src={doc.icon || `https://source.boringavatars.com/bauhaus?&name=stoc`}
+				src={doc.icon || `https://source.boringavatars.com/bauhaus?&name=stock`}
 				class="w-[16px] h-[16px] object-cover"
 				width="16px"
 				height="16px"
