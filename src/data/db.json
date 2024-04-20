@@ -671,6 +671,12 @@
       "name": "cli",
       "icon": false,
       "createdAt": "2024-04-20T04:39:31.767Z"
+    },
+    {
+      "slug": "algorithm",
+      "name": "アルゴリズム",
+      "icon": false,
+      "createdAt": "2024-04-20T04:48:22.153Z"
     }
   ],
   "docs": [
@@ -2514,6 +2520,24 @@
       "host": "github.com",
       "image": "https://opengraph.githubassets.com/b0a590651726a4eed426e243c12d69f84e8764e5bf783053839b493790d2d0ee/BurntSushi/ripgrep",
       "createdAt": "2024-04-20T04:39:31.766Z"
+    },
+    {
+      "id": "2b25ddd6-2785-46e7-8955-b8b9ec2cdf8b",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "tags": [
+        "theory",
+        "softskill",
+        "tutorial",
+        "learning",
+        "beginners",
+        "algorithm"
+      ],
+      "title": "GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.",
+      "description": "A complete computer science study plan to become a software engineer. - jwasham/coding-interview-university",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "host": "github.com",
+      "image": "https://repository-images.githubusercontent.com/60493101/4ed59900-87ab-11ea-9e39-99741f040a83",
+      "createdAt": "2024-04-20T04:48:22.152Z"
     }
   ]
 }
