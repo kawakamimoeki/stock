@@ -2486,7 +2486,8 @@
       "url": "https://t-wada.hatenablog.jp/entry/canon-tdd-by-kent-beck",
       "tags": [
         "testing",
-        "blog"
+        "blog",
+        "theory"
       ],
       "title": "【翻訳】テスト駆動開発の定義 - t-wadaのブログ",
       "description": "このブログエントリでは、テスト駆動開発（TDD: Test-Driven Development）の考案者Kent BeckがTDDの定義を改めて明確化した文章を、許可を得たうえで翻訳し、訳者の考察を沿えています。 きっかけ 2023年の年末、テスト駆動開発（TDD: Test-Driven Development）の考案者Kent Beckは、substackにTDDに関するポストを連投して論戦を繰り広げていました。TDDはその誕生から20年以上が経ち、その間に「意味の希薄化」が発生して議論が噛み合わなくなっていました。意味の希薄化（Semantic Diffusion）とは、新しく作り出さ…",
